@@ -1,0 +1,106 @@
+#offer letter code
+
+Original Message
+Message ID	<CAFnnUqh3b4GhXmWqryJ9drfji8f5qyg-oFjcPnnAoi3cx6PFcQ@mail.gmail.com>
+Created at:	Thu, Oct 13, 2022 at 3:29 PM (Delivered after 13 seconds)
+From:	nexus techno solutions <nexustechinfohr@gmail.com>
+To:	"kurukootinethaji78@gmail.com" <kurukootinethaji78@gmail.com>
+Subject:	NEXUS TECHNO SYSTEMS APPOINTMENT LETTER
+SPF:	PASS with IP 209.85.220.41 Learn more
+DKIM:	'PASS' with domain gmail.com Learn more
+DMARC:	'PASS' Learn more
+
+
+Delivered-To: kurukootinethaji78@gmail.com
+Received: by 2002:a05:7000:c52a:b0:3ba:d715:3b6c with SMTP id jx42csp286531mab;
+        Thu, 13 Oct 2022 02:59:22 -0700 (PDT)
+X-Received: by 2002:a81:6809:0:b0:35c:6b14:d1a8 with SMTP id d9-20020a816809000000b0035c6b14d1a8mr29577379ywc.312.1665655161458;
+        Thu, 13 Oct 2022 02:59:21 -0700 (PDT)
+ARC-Seal: i=1; a=rsa-sha256; t=1665655161; cv=none;
+        d=google.com; s=arc-20160816;
+        b=DZKVlcKTKK5M7DLKkZZ21bXAcG61hmfER3ImuXGnVaGJCZnMcVxoR7MBwPvRCniWhX
+         GapyVblYqFsIVTFKgyfMwJD7af6FYRyNU2Y10j96v2EdZlGNwOHv9GvRG3MdeW5/tfOs
+         C22i8E1hugj7NXN0QlQgv707ZWjX0T5qRQQ+K3TweYFQ6+EU4YvOUKKKJjvvGLSjZrvp
+         C5gB5yTQLKrkimylEqWeE8D5JM//5N/NkUb3XuumO6nNFo/0zifT44GN6G1O8m9Jw1W1
+         q10Rmp9Bt492YOiBv5IdE1j/rTu4WmBWu4MVVULbGKUxZxhrWUNN7llH5sBQxM/5rci/
+         G7Bw==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=to:subject:message-id:date:from:mime-version:dkim-signature;
+        bh=+f6MRAQebXqlwaSfCHex4uKzS4La4xsV+KnGINyx2SQ=;
+        b=dkwpeObqQJNo0iezrkLWEFmexyiPx9TeMtqVQCFH0xfhb3RtvghXpY/COXKkPNPLcE
+         mf5I6f2bC96/mfhzsKEHsDHsrqgEelrqDvyhX/UeqNphAP7DBAjhaaYSjU524tdOqD/1
+         DjMTq+WRNdxGsMCjcAJdhQiaRb23GldaZfqte1Ih7tBnIWFm8ynRf+v+gOB/Alw7a27p
+         MpF76tWCkKaCdmqCnm/eTpmUD5l+dwN6uykO/HSfaNXcDE80+d9vYRhJus/3MHgX0+1e
+         eRnGfSKi+ybus6EUMwERVLh4d9Sk3a1IEwFLkM0o4O0rZcWxdIpMvuz/6VANL8YbLWaO
+         XHeA==
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@gmail.com header.s=20210112 header.b=ARzqCdgW;
+       spf=pass (google.com: domain of nexustechinfohr@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=nexustechinfohr@gmail.com;
+       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com
+Return-Path: <nexustechinfohr@gmail.com>
+Received: from mail-sor-f41.google.com (mail-sor-f41.google.com. [209.85.220.41])
+        by mx.google.com with SMTPS id m17-20020a5b0411000000b006bcf68f8b1asor7104101ybp.158.2022.10.13.02.59.21
+        for <kurukootinethaji78@gmail.com>
+        (Google Transport Security);
+        Thu, 13 Oct 2022 02:59:21 -0700 (PDT)
+Received-SPF: pass (google.com: domain of nexustechinfohr@gmail.com designates 209.85.220.41 as permitted sender) client-ip=209.85.220.41;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@gmail.com header.s=20210112 header.b=ARzqCdgW;
+       spf=pass (google.com: domain of nexustechinfohr@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=nexustechinfohr@gmail.com;
+       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20210112;
+        h=to:subject:message-id:date:from:mime-version:from:to:cc:subject
+         :date:message-id:reply-to;
+        bh=+f6MRAQebXqlwaSfCHex4uKzS4La4xsV+KnGINyx2SQ=;
+        b=ARzqCdgWGpRBV5efUVfMcJRCHof9qjpDXxRz/1X/CvQwUOW94DwIU+je6vg2XAHkpC
+         zR8OJcQx0WYDlltJP1k4Gc0vDL3ewdc8wti0uSN6GDKCAT1ZbPMM1Y2Kn0bk+BMH9U54
+         9myr+mdm0OMC1rR/h7aogtDwSzHpllGN+g7jOgLnNUcLbmQyng4Z/gI6f5815oaki8sl
+         5eHWOPLEiytMFyEo9HOYUsl0XsECUsk6vvO/cXHQTxR1BWvtdmH10xU6GPk+QheSAgZQ
+         skjwU9BT8js4rSbcVfAtbmTBu3oVdP0ovYKDtqwauw0CRU0w93Gvye+IYy4v81iP7vER
+         ZF0g==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20210112;
+        h=to:subject:message-id:date:from:mime-version:x-gm-message-state
+         :from:to:cc:subject:date:message-id:reply-to;
+        bh=+f6MRAQebXqlwaSfCHex4uKzS4La4xsV+KnGINyx2SQ=;
+        b=7Op7K+qFaXSoTQjexSglPJmhfIBVMRj/H147J7fBvJCDuxA8N93wYW56PnAAXBEQE2
+         IngAfwk/psUsajiwSpmXeep/74MVsOfVd2AcznQLhsQFDNXLscmQ8WYRDpDTapx8N6GE
+         u56zPv2XHSf1XkeCaEoeYspO9jPg5hxGkd9PpkNu0NksgcYqI9yo8ZDH1mvWIJbRSWN3
+         tDhycU3JvevLGfKmKu+XnbrHgTWxKNQ+16APPGXdvhJGZ+wctXCBTGM2cfQnTvnyijHT
+         RQXhl6yQjk+bHt54vsus9WsDQK2d1m6va+SVndZ9/0+ESoPOUEnrOYIbrluCGjs5LkGt
+         SIag==
+X-Gm-Message-State: ACrzQf27tE3MB+kaIJ2i+Poa12BVY7cOrPFRhL4fuOu90tDEiF2o4lMM otpouSOZ6v4gr6XqXYCD5B3thLd4bS0d+WQQi7An1e8N1ZcofiVp
+X-Google-Smtp-Source: AMsMyM7LADn3ruLH17pR+z92uDas3E83jIITvVG6u7y1D7mZVwg8dHGVSP0oK4kwdjcjdN/bY0bZ8NuOKxGkQHg11tQ=
+X-Received: by 2002:a25:357:0:b0:6bd:9db0:5b6e with SMTP id 84-20020a250357000000b006bd9db05b6emr32798341ybd.534.1665655159497; Thu, 13 Oct 2022 02:59:19 -0700 (PDT)
+MIME-Version: 1.0
+From: nexus techno solutions <nexustechinfohr@gmail.com>
+Date: Thu, 13 Oct 2022 15:29:08 +0530
+Message-ID: <CAFnnUqh3b4GhXmWqryJ9drfji8f5qyg-oFjcPnnAoi3cx6PFcQ@mail.gmail.com>
+Subject: NEXUS TECHNO SYSTEMS APPOINTMENT LETTER
+To: "kurukootinethaji78@gmail.com" <kurukootinethaji78@gmail.com>
+Content-Type: multipart/mixed; boundary="0000000000001a398f05eae7902e"
+
+--0000000000001a398f05eae7902e
+Content-Type: multipart/alternative; boundary="0000000000001a398d05eae7902c"
+
+--0000000000001a398d05eae7902c
+Content-Type: text/plain; charset="UTF-8"
+
+Hai Nethaji, please check your appointment order
+
+--0000000000001a398d05eae7902c
+Content-Type: text/html; charset="UTF-8"
+
+<div dir="ltr">Hai Nethaji, please check your appointment order</div>
+
+--0000000000001a398d05eae7902c--
+--0000000000001a398f05eae7902e
+Content-Type: application/pdf; name="Nuxus Appointment letter (3).pdf"
+Content-Disposition: attachment; filename="Nuxus Appointment letter (3).pdf"
+Content-Transfer-Encoding: base64
+Content-ID: <f_l96w1df60>
+X-Attachment-Id: f_l96w1df60
+
+
+--0000000000001a398f05eae7902e--
