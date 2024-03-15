@@ -1,0 +1,1391 @@
+Original Message
+Message ID	<CAB+GoW6QKMrTyBKSrfFN1ViRB_M6oSeKhmO39E7_KBZaV49D+A@mail.gmail.com>
+Created at:	Fri, Feb 10, 2023 at 6:46 PM (Delivered after 13 seconds)
+From:	nexustech infosystems <infonexustechsystems@gmail.com>
+To:	kurukooti.nethaji1@gmail.com
+Subject:	Training session starts at 7:00pm
+SPF:	PASS with IP 209.85.220.41 Learn more
+DKIM:	'PASS' with domain gmail.com Learn more
+DMARC:	'PASS' Learn more
+
+
+Download Original	Copy to clipboard	
+Delivered-To: kurukooti.nethaji1@gmail.com
+Received: by 2002:a05:7010:e49a:b0:32e:5c5c:5c2e with SMTP id lk26csp1323581mdb;
+        Fri, 10 Feb 2023 05:16:57 -0800 (PST)
+X-Received: by 2002:ac2:4214:0:b0:4b6:eaed:f18f with SMTP id y20-20020ac24214000000b004b6eaedf18fmr3475006lfh.38.1676035017519;
+        Fri, 10 Feb 2023 05:16:57 -0800 (PST)
+ARC-Seal: i=1; a=rsa-sha256; t=1676035017; cv=none;
+        d=google.com; s=arc-20160816;
+        b=V19Ohp2x6SCj/+mX6Odo1a6RVmqngKDlN6RYZKBB2n4D87s6/1l9JgR9jUolQ0oChp
+         UZcIRPQnZxp1F6NY7HwbLza6PxGoq0Wf3TPwbUQRVDdW5GFc/hp8YC7a9juIFZX+Unrd
+         292hhyGLVbaXjSTNwNGOWExApMRFhSiyVLWJ6MMH1SIugezhQtxM4OXY4iFvEYAi3q/J
+         CIvPt4EQ7Yy1PbrJ/rRIgGZ/7XvVyt6v3A2boP9P3itVUFjcsTxBYBqEe4EdG64jact3
+         zWs3FPIVGW+yrZVWjyoRjwNt8FeI4zmcmqsVzScumCiBtKb0P9avDErKba9QJxLdh5FD
+         hf1w==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=to:subject:message-id:date:from:mime-version:dkim-signature;
+        bh=hzgRDE3jX2PI1NalF1oPg/C1i52xilC3n/WuHwT5QeQ=;
+        b=weSVUr1vdUcB1qnBzEeuYniGRgFI6eZhjJpHO3xXgHWlCoYM/op1rxS7uDI12++p3t
+         AUCBYMXnYmhtzVyeZjJBPkDPSAktI3LLurZZOMHOtuC8FD1SVp7TsiAUhMh+lV+wtoBL
+         kGSARYK2zDWqAhLmT8fdQO4RkrNMsMgXvANUMgQ7vS31JltojMn3G/DLA4b38YLA8zlT
+         uD5xoChZP7QfqCnbnorQNWMbIR9XtG/BkOVXKW4d4QrCfL9DYXjea3UwAllFp1eu+vuy
+         QQBEl6Y2onI18x6XETkLYzSB55yBjgIUOsaaVV0VGHeuO/2WEGgNyq/mdQeAINOt5ulh
+         iOAQ==
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@gmail.com header.s=20210112 header.b=ZgmBrNeM;
+       spf=pass (google.com: domain of infonexustechsystems@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=infonexustechsystems@gmail.com;
+       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com
+Return-Path: <infonexustechsystems@gmail.com>
+Received: from mail-sor-f41.google.com (mail-sor-f41.google.com. [209.85.220.41])
+        by mx.google.com with SMTPS id d23-20020ac25457000000b004db1b08ef1fsor1082628lfn.168.2023.02.10.05.16.57
+        for <kurukooti.nethaji1@gmail.com>
+        (Google Transport Security);
+        Fri, 10 Feb 2023 05:16:57 -0800 (PST)
+Received-SPF: pass (google.com: domain of infonexustechsystems@gmail.com designates 209.85.220.41 as permitted sender) client-ip=209.85.220.41;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@gmail.com header.s=20210112 header.b=ZgmBrNeM;
+       spf=pass (google.com: domain of infonexustechsystems@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=infonexustechsystems@gmail.com;
+       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20210112;
+        h=to:subject:message-id:date:from:mime-version:from:to:cc:subject
+         :date:message-id:reply-to;
+        bh=hzgRDE3jX2PI1NalF1oPg/C1i52xilC3n/WuHwT5QeQ=;
+        b=ZgmBrNeMC6lcqO9vgdFzK/yeOk/jlsVa0d2BzkHawQk4A/74I14ekMoOpiPH6Re2RC
+         2YBRlsMEisL2NogfIb5aiplCmCfO21QtxSUSc0Khnts6qz+eHZ5vdA37uexS+5W/cKkC
+         dbD1v1GpwUUPCUwrkCKZ+TGdYJQrwzUB09ip2645eJB8K6hN1BI4VB2KZAc5BM5Q/11o
+         dTPoBKYVTnsEOaQIXEPONqjQchfv5MDkvLMH3j0FAMb1uhi8jxUIZMvle6AlwVDemvr6
+         XC+z4RxwwA5CHItzivHgchPxKG5unLP0cCtN5tyv3JkvnEjV5lWl0HcOtvweuCnWhezW
+         YmDw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20210112;
+        h=to:subject:message-id:date:from:mime-version:x-gm-message-state
+         :from:to:cc:subject:date:message-id:reply-to;
+        bh=hzgRDE3jX2PI1NalF1oPg/C1i52xilC3n/WuHwT5QeQ=;
+        b=iHcjGvKNv/G8qE8vKHArDux7BT/HMqKnltmeziqHj9CbH+gK/CXFgE6p7Svs7PoC+T
+         jkrlkgfjWWbPH1VN+mpVi+XwVkgnu5MPtDz46wD+/2wPOrlNyElxjuXqavwPu8U49EaZ
+         W0uorhzz4eFOwJlN9ptwwATL5oohGMz5DxyGfJaT+XFau5qGUXygP3Nf0q2JO0habJJT
+         jn/S7+ygTY1AepGBxiqgWLmHjPtekMVDWCzQimzhYxu1Fjb91Y7WRFJ8qHcseULD7QKa
+         OmS+NaXd28bEPnIGCP3o1cW+nsAorE1zNDm/oUGAUkpWtWUgWJDEa+sNXqxl/hGYswyR
+         nxyw==
+X-Gm-Message-State: AO0yUKUcIF9SNNrfpAU19M1FnGkm5b5vl2FuHHGsioQfsXo9WH7vxWrH WLi6aoBZG+suStgeYFoL0VAMSZB48YhiffXNY2i6aLxD
+X-Google-Smtp-Source: AK7set9WjHaw+3IvQNVTLd5EM1ZRXW3BvVj+gHy2OaGTaNaTdq/Okz+4OtCLOCJho3Oqh+KpIVYZSzLs2IWQbF+hKtc=
+X-Received: by 2002:ac2:414f:0:b0:4ca:6c11:d3e5 with SMTP id c15-20020ac2414f000000b004ca6c11d3e5mr2479717lfi.224.1676035016534; Fri, 10 Feb 2023 05:16:56 -0800 (PST)
+MIME-Version: 1.0
+From: nexustech infosystems <infonexustechsystems@gmail.com>
+Date: Fri, 10 Feb 2023 18:46:44 +0530
+Message-ID: <CAB+GoW6QKMrTyBKSrfFN1ViRB_M6oSeKhmO39E7_KBZaV49D+A@mail.gmail.com>
+Subject: Training session starts at 7:00pm
+To: kurukooti.nethaji1@gmail.com
+Content-Type: multipart/alternative; boundary="000000000000caac2105f4584fca"
+
+--000000000000caac2105f4584fca
+Content-Type: text/plain; charset="UTF-8"
+
+Training session starts at 7:00pm
+
+--000000000000caac2105f4584fca
+Content-Type: text/html; charset="UTF-8"
+
+<div dir="auto">Training session starts at 7:00pm</div>
+
+--000000000000caac2105f4584fca--
+
+
+
+
+
+
+2
+
+
+
+
+Original Message
+Message ID	<CAB+GoW5i=Uv9_A14caF8Adk8dkJhiiH0SVhJKOMeY1zF3fM0hA@mail.gmail.com>
+Created at:	Wed, Feb 8, 2023 at 5:07 PM (Delivered after 12 seconds)
+From:	nexustech infosystems <infonexustechsystems@gmail.com>
+To:	kurukooti.nethaji1@gmail.com
+Subject:	Training session starts at 5:15pm
+SPF:	PASS with IP 209.85.220.41 Learn more
+DKIM:	'PASS' with domain gmail.com Learn more
+DMARC:	'PASS' Learn more
+
+
+Download Original	Copy to clipboard	
+Delivered-To: kurukooti.nethaji1@gmail.com
+Received: by 2002:a05:7010:e49a:b0:32e:5c5c:5c2e with SMTP id lk26csp846373mdb;
+        Wed, 8 Feb 2023 03:37:48 -0800 (PST)
+X-Received: by 2002:a19:7617:0:b0:4b0:1305:6ebf with SMTP id c23-20020a197617000000b004b013056ebfmr1791517lff.53.1675856268570;
+        Wed, 08 Feb 2023 03:37:48 -0800 (PST)
+ARC-Seal: i=1; a=rsa-sha256; t=1675856268; cv=none;
+        d=google.com; s=arc-20160816;
+        b=zI/YPXxinbXAIOOl3HVBwRcHYiFTjKVSvALTaNdI8RieUGoZnysArpHGeKzUzEiGbo
+         an9KKjHz2QpQi86zJEtcnW90Evkk8FRBvleVfEBKoj3WXFHwSZzsD21onJAKjgxKJ7Va
+         CQWxcTIH+ZZUA2SQp4BwHi8kQwiA63s4hLaSm3hydjd2lEUaM/cM8FDGtl0YZY2paZiK
+         WenjNWtvDSya7hPQ7xch6xdhhyXz2evqCOSrROYLstnhchQiQmv/3op/Ysy1o0JNNwoU
+         swHzmbygwMmbxGa+yiSRQZTYaDEYSNHlZ48xbTBU11B0JuJNxqtonFFVGJFSTrr3YnGA
+         9sdw==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=to:subject:message-id:date:from:mime-version:dkim-signature;
+        bh=ouENYuQJaOS6Y26rBGjiEZSGoCs05Fb4EcENWluNPts=;
+        b=TnJclJ3UllRXGIfoT0EAL/aBh5uc/8vPwLjcSWDninGwtNcWYiQR91ae7p8/DSWNRx
+         Q5KchxPS/zafFGSvIGasZyghxduVCk4+4rqV3D8Xk5m2RROt0hMsJNkNUzrIQSSiv147
+         aDgxm8b5NZsac7uVwK5aCoDN4MJbQn8xUUwyffuDKStOzkQkdiQMD+zIP4Q2j8fkUB48
+         5u/9KNPkcQuX6dS9rAkVo21tew//vZteUya/6o/sUkjLd3ybtNuV3dpGYLAcUzrOzzNC
+         B/3QCQlL5VgLtGeT9N/XFvSpLF8Iwrg6UnbPKysn3t618RT9vTav8x1jlFu6hKWu06uM
+         Tl5Q==
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@gmail.com header.s=20210112 header.b="EbRl/obL";
+       spf=pass (google.com: domain of infonexustechsystems@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=infonexustechsystems@gmail.com;
+       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com
+Return-Path: <infonexustechsystems@gmail.com>
+Received: from mail-sor-f41.google.com (mail-sor-f41.google.com. [209.85.220.41])
+        by mx.google.com with SMTPS id h3-20020a056512220300b004a29de66c71sor3379969lfu.175.2023.02.08.03.37.48
+        for <kurukooti.nethaji1@gmail.com>
+        (Google Transport Security);
+        Wed, 08 Feb 2023 03:37:48 -0800 (PST)
+Received-SPF: pass (google.com: domain of infonexustechsystems@gmail.com designates 209.85.220.41 as permitted sender) client-ip=209.85.220.41;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@gmail.com header.s=20210112 header.b="EbRl/obL";
+       spf=pass (google.com: domain of infonexustechsystems@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=infonexustechsystems@gmail.com;
+       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20210112;
+        h=to:subject:message-id:date:from:mime-version:from:to:cc:subject
+         :date:message-id:reply-to;
+        bh=ouENYuQJaOS6Y26rBGjiEZSGoCs05Fb4EcENWluNPts=;
+        b=EbRl/obLXZ+kpUNnib1uGs9ZuykLd80cIA4btqjv//SYFj0QPszeKsvx1QAzR65tvQ
+         5tJd4inRumG578aZL68pUdfFMwqVaQxsH8f4lhFaHJC6mcxCDr2HGCZtrJwcW77hzKKP
+         ZFJNew7RAclC4mnrLc70dgO456nN3oP0je8atupw2/D5VzwSPQjM62LzCtyjrVaEQnzk
+         0FcJna7YivvpCxOj+AYkKa5mHOau3TeZfpHr1GJmu2UGcQCdDRHlAr9oTKMxsldTub/E
+         yKu++6COVuiI2Hxv3ivdAdhg55/sFWLfit+7T7ctdQ0ziN5AlkQJlT6G+EzdM+o2PhaJ
+         6idQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20210112;
+        h=to:subject:message-id:date:from:mime-version:x-gm-message-state
+         :from:to:cc:subject:date:message-id:reply-to;
+        bh=ouENYuQJaOS6Y26rBGjiEZSGoCs05Fb4EcENWluNPts=;
+        b=7fZ2r2MtUFFMZrECb9NFzSj4UzaxrSu6Asr4DlcPJFPRZoX6wIpGSykcxitZ9FFwpN
+         Gp0ARAE/0yRMLogHZO5BqVzPBm9e6nEiQzDEGNw2C4LiFTGrzvwhEtlkn/WQO6AS3f+a
+         /B9izo7X5GXApQW83woCEPOJ6rkjEKwCI++/Tbvs8bqcS4ZWKFB8MmI8KmMRenbjSRrC
+         M2XPexbemqMBG+SqYTguoaHu1U58VsF/WMXatASS3XLPoFh63S1pI/LUxCJModexwSEN
+         5WTaFD5zzllqq5/AjjZSaFsPU3/fpWegQw9Z+dY0JFUeqRaIMf/4zSLhTsWZXw2DX6hR
+         svtw==
+X-Gm-Message-State: AO0yUKWekhZ/WRXzf0lzgRbZf5y9/S/X4TRZ6eb96h4K7vNsFIldS5pI ntu7tQFIntQMnJRLOG37rjzBnxL8/gpXG1US5yCpLMTw
+X-Google-Smtp-Source: AK7set9SeJYm8skHQiS2isamnaLPfcgqNakgqSfMopptZvEuZ0jrly8kpes6UZ4XgJBRk0raw0aKZf9gJGmhJrquPxA=
+X-Received: by 2002:ac2:5593:0:b0:4d5:6a1d:4aae with SMTP id v19-20020ac25593000000b004d56a1d4aaemr1108569lfg.172.1675856267818; Wed, 08 Feb 2023 03:37:47 -0800 (PST)
+MIME-Version: 1.0
+From: nexustech infosystems <infonexustechsystems@gmail.com>
+Date: Wed, 8 Feb 2023 17:07:36 +0530
+Message-ID: <CAB+GoW5i=Uv9_A14caF8Adk8dkJhiiH0SVhJKOMeY1zF3fM0hA@mail.gmail.com>
+Subject: Training session starts at 5:15pm
+To: kurukooti.nethaji1@gmail.com
+Content-Type: multipart/alternative; boundary="00000000000089ba1c05f42eb1fb"
+
+--00000000000089ba1c05f42eb1fb
+Content-Type: text/plain; charset="UTF-8"
+
+Training session starts at 5:15pm
+
+--00000000000089ba1c05f42eb1fb
+Content-Type: text/html; charset="UTF-8"
+
+<div dir="auto">Training session starts at 5:15pm</div>
+
+--00000000000089ba1c05f42eb1fb--
+
+
+
+
+3
+
+
+
+Original Message
+Message ID	<CAB+GoW5-TebEtAih5WFXoifZvXmhQF5EednHQ2Gq-bX3zeKFhA@mail.gmail.com>
+Created at:	Tue, Feb 7, 2023 at 4:38 PM (Delivered after 13 seconds)
+From:	nexustech infosystems <infonexustechsystems@gmail.com>
+To:	kurukooti.nethaji1@gmail.com
+Subject:	Work done report format
+SPF:	PASS with IP 209.85.220.41 Learn more
+DKIM:	'PASS' with domain gmail.com Learn more
+DMARC:	'PASS' Learn more
+
+
+Download Original	Copy to clipboard	
+Delivered-To: kurukooti.nethaji1@gmail.com
+Received: by 2002:a05:7011:e8a:b0:328:6295:1794 with SMTP id hx10csp3936515mdb;
+        Tue, 7 Feb 2023 03:08:55 -0800 (PST)
+X-Received: by 2002:ac2:5590:0:b0:4a9:9827:68e8 with SMTP id v16-20020ac25590000000b004a9982768e8mr695282lfg.7.1675768135342;
+        Tue, 07 Feb 2023 03:08:55 -0800 (PST)
+ARC-Seal: i=1; a=rsa-sha256; t=1675768135; cv=none;
+        d=google.com; s=arc-20160816;
+        b=kXwEwaS98GMRnChoLrSl1zxRSRD6ARKgkZRQEhNsE43qdKhR7u5KjVM6Hl48HWkE0l
+         luFCOdy51YETfYmxtN322DbmsNWbu5JcuMRKDezMDADky058XtzLuvfXfM+7NMSIcca9
+         dCWaQYmHtyFlj0phfALiaAsGBR/PCqSnoKz/LVFPVeOEFKK+/A1zcQbFKc+YJo2qoJrV
+         fpk6nziy/W1rmfIT9WjaI7ShMrpKwB58iJW91bi/ReDs4oq4h5G07QIa61tNue4MFugB
+         ZChpjcH3NWq/7LkNGZF+F6z3smAeVO6nDqPbA2rb7+bDKiUL/IDknV5lYv6idA+LV2PF
+         9cKg==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=to:subject:message-id:date:from:mime-version:dkim-signature;
+        bh=WGBLitCpYhBl20/8G7M/7kB/tVFZ4iDcDc7aAwaxTjw=;
+        b=MhSsIrhqeex7u85cjBcorJxRmWdY9VDxyVr7sFAMeh8Y8ZeFKA5D/Ibb+1BiFyLNG8
+         n4VjmXXsiixpA4H6+x+lVs1ExbDRcJtAPMExwph+771zDzAyF39Scwr/VkdP5tkfRglI
+         yAcLY+IAk7PpFOAgZh/HXwa2vWRvBvozTPSlUS4h/dvuaBFCJYNhWLkBm+kGolF6OhaU
+         2MVIV1yQBanR5+9J//3wMDuO9zqc45tPSjYmxpqYFh5zAodmqgig+ec/g9cPx0iyAiNg
+         H7Ci76fbk3I2HX/hz/pIj+UGgHxbvAl1SUEUH9z5u/I8TKSpWpSHx4wsa7xJ9V1zIrNd
+         akZw==
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@gmail.com header.s=20210112 header.b=RiRMnD7N;
+       spf=pass (google.com: domain of infonexustechsystems@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=infonexustechsystems@gmail.com;
+       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com
+Return-Path: <infonexustechsystems@gmail.com>
+Received: from mail-sor-f41.google.com (mail-sor-f41.google.com. [209.85.220.41])
+        by mx.google.com with SMTPS id u12-20020a056512128c00b004d57a64d232sor2600816lfs.145.2023.02.07.03.08.55
+        for <kurukooti.nethaji1@gmail.com>
+        (Google Transport Security);
+        Tue, 07 Feb 2023 03:08:55 -0800 (PST)
+Received-SPF: pass (google.com: domain of infonexustechsystems@gmail.com designates 209.85.220.41 as permitted sender) client-ip=209.85.220.41;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@gmail.com header.s=20210112 header.b=RiRMnD7N;
+       spf=pass (google.com: domain of infonexustechsystems@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=infonexustechsystems@gmail.com;
+       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20210112;
+        h=to:subject:message-id:date:from:mime-version:from:to:cc:subject
+         :date:message-id:reply-to;
+        bh=WGBLitCpYhBl20/8G7M/7kB/tVFZ4iDcDc7aAwaxTjw=;
+        b=RiRMnD7Nvhdl6k05tjMah49XeeOZG7qrjvV1BY78pT0b1mT1emD7A5VKT6EmOMt6AI
+         Y9AeKM4BCDyu5tI7DhT4/OExghvZPjDj23ykLpP3JOF39cKh2ofk0KSjB6sF4Io3XmRc
+         8O8Yj8ql6rnoFMkE44O17uyDpQymirR6DyUdbGU+dYzM9NJ2Yfh5iF5oWEFfYTeYYUNb
+         s34rWURiwRnb92hRbJ8A8n9O7eSfzwF6lECEU9H8qrChR02ib7NIwd+Rc7Xw5l0YRHDv
+         gN8OT5XGMgJ08J2nI3lAETkZKLcYlN7aCTomNzwxrUoYwqzBurqIW1jcj/gCgDrMpGcm
+         PgGg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20210112;
+        h=to:subject:message-id:date:from:mime-version:x-gm-message-state
+         :from:to:cc:subject:date:message-id:reply-to;
+        bh=WGBLitCpYhBl20/8G7M/7kB/tVFZ4iDcDc7aAwaxTjw=;
+        b=TwaCgPbV/VoKpS6koVwb43IicEGwrfVjec8yAqobtZ5cHeAcTJ9sWEXkQQG2WGiU7g
+         Qw3qVI0/ws398UywRYEL+IcOb7DnFl1ecLmP0xy+rwCIfLE3wzQwFZyrHRwnbvbiIXNy
+         QmRnORsGqDiFffItKzQj76agy0IGEMcZ1Y9OTkf058DDSvHCIn+4mDeEAjxqr7QJElBs
+         CGPsCzfKNxllmWWuqxUHfE2zdwbLRZjDA8T+QQWQG7NxOsiK1Do8sZXxF1q4fpIQoDmS
+         6ONcH/DS6esBsXWaxKIIB4Xc3HVPenweN9oTsf08p8kN86NQ3nEbgnVYMmFb2EvyIKK8
+         zAYQ==
+X-Gm-Message-State: AO0yUKVTsSwU3N6PkqU3bcQwmQ52g4wKxsn1DN97BWylQfCcmGfuqljQ gDfSktxN9T0RccDYah3dL5L8r6I7OaGgR/k81hKG0T6N
+X-Google-Smtp-Source: AK7set9lpTyqlbvEAZAxG890gF7+E7vXHMyur/pNqNDNURQBSiAoss9bOXhhtnZMt7mjIlwcTfNvFUuoLy/HPvnoTHU=
+X-Received: by 2002:ac2:418c:0:b0:4da:fddc:da02 with SMTP id z12-20020ac2418c000000b004dafddcda02mr410698lfh.116.1675768134437; Tue, 07 Feb 2023 03:08:54 -0800 (PST)
+MIME-Version: 1.0
+From: nexustech infosystems <infonexustechsystems@gmail.com>
+Date: Tue, 7 Feb 2023 16:38:42 +0530
+Message-ID: <CAB+GoW5-TebEtAih5WFXoifZvXmhQF5EednHQ2Gq-bX3zeKFhA@mail.gmail.com>
+Subject: Work done report format
+To: kurukooti.nethaji1@gmail.com
+Content-Type: multipart/mixed; boundary="000000000000611f7705f41a2c39"
+
+--000000000000611f7705f41a2c39
+Content-Type: multipart/alternative; boundary="000000000000611f7505f41a2c37"
+
+--000000000000611f7505f41a2c37
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Employee send me your training session work done report from monthly
+wise format starting day to till now and be prepare for Employees based
+Performance Analysis test.
+
+--000000000000611f7505f41a2c37
+Content-Type: text/html; charset="UTF-8"
+
+<div dir="auto">Dear Employee send me your training session work done report from monthly wise format starting day to till now and be prepare for Employees based Performance Analysis test.</div>
+
+--000000000000611f7505f41a2c37--
+--000000000000611f7705f41a2c39
+Content-Type: application/pdf; name="WORK DONE REPORT OF EMPLOYEE.pdf"
+Content-Disposition: attachment; filename="WORK DONE REPORT OF EMPLOYEE.pdf"
+Content-Transfer-Encoding: base64
+Content-ID: <1862b903472d4c0d43e1>
+X-Attachment-Id: 1862b903472d4c0d43e1
+
+
+--000000000000611f7705f41a2c39--
+
+
+4
+
+Original Message
+Message ID	<CAB+GoW4zQ-zLw9XCT3josonZA4vW+VqfOBU-kbXj57t=PRiMkw@mail.gmail.com>
+Created at:	Tue, Dec 6, 2022 at 1:09 PM (Delivered after 14 seconds)
+From:	nexustech infosystems <infonexustechsystems@gmail.com>
+To:	"kurukooti.nethaji1@gmail.com" <kurukooti.nethaji1@gmail.com>
+Subject:	Regarding November month salary
+SPF:	PASS with IP 209.85.220.41 Learn more
+DKIM:	'PASS' with domain gmail.com Learn more
+DMARC:	'PASS' Learn more
+
+
+Download Original	Copy to clipboard	
+Delivered-To: kurukooti.nethaji1@gmail.com
+Received: by 2002:a05:7010:7d08:b0:313:8569:e9bb with SMTP id s8csp3808758mdn;
+        Mon, 5 Dec 2022 23:40:04 -0800 (PST)
+X-Received: by 2002:a05:6830:6b07:b0:661:ef69:2013 with SMTP id db7-20020a0568306b0700b00661ef692013mr42782612otb.306.1670312404781;
+        Mon, 05 Dec 2022 23:40:04 -0800 (PST)
+ARC-Seal: i=1; a=rsa-sha256; t=1670312404; cv=none;
+        d=google.com; s=arc-20160816;
+        b=FWpaEE5bTeIcF/c3kx/pDccfEbnYcud5/nUvey9Ffglx9f02E1NIQtLFiWM0/MLB4Y
+         aG8q45ANITs+mhjNLxjOmkXVK2BMLeL2xEagHLko1MtZom+C334m7lNw0FqlrDH8zk2A
+         RTJ6k4CGJ3m9GGwU3bWeujrvDFCpUnJ03mJF977LMR88ZTe0yVahepRqL5Uzd0opp1AW
+         14q8qLbHg8yffw6w6Hj0sGe1/ri7nVI1MIBYqaz+idn+oBbnmHiRnbD589JnV1sN1WxP
+         WYqLn5LfmqT4AMC4EZN5zPpS6pGQcC0dBhvILUTAlYWykS0LMuAYnyYRaSSGzDjxtYCV
+         xiCA==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=to:subject:message-id:date:from:mime-version:dkim-signature;
+        bh=PIa1s84SMBVWYu0hfsUHsE4wyp/GySHFwk0v+iXgIE0=;
+        b=jbM09Q2xhHAEl6FL5lQQIs98yQUfcWpz1zA4h2omi0ESPUMNP/hrQMgpdZ+vJj38G7
+         iqBnRAzziWDsbgTMXqJKQirZO1zlnsgTNs1CGs7ZD9GAcNRa5IKZQobnK32COTGn52ZK
+         bYAGzApySsRUByjDw35v8l7zBRT+pO/9mDb9etzhi/Ec0YXqsvG4PVaWzRXWWJVbcQ6A
+         BZk+phcjOiQviaA21w+g6CCy37LMjoilIcQwm4laqP9KBNXBaAATF6336XlNSLs6N0nK
+         pEsTVYtn6eQXsPC/XQc7Fsmc9FmgdhqWmsB56dSfRMXITYG9nchGjjqKY9EIB+hpyTUk
+         QEcQ==
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@gmail.com header.s=20210112 header.b=E5SSYWJa;
+       spf=pass (google.com: domain of infonexustechsystems@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=infonexustechsystems@gmail.com;
+       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com
+Return-Path: <infonexustechsystems@gmail.com>
+Received: from mail-sor-f41.google.com (mail-sor-f41.google.com. [209.85.220.41])
+        by mx.google.com with SMTPS id cj26-20020a056830641a00b00661bbb6d92csor2803194otb.182.2022.12.05.23.40.04
+        for <kurukooti.nethaji1@gmail.com>
+        (Google Transport Security);
+        Mon, 05 Dec 2022 23:40:04 -0800 (PST)
+Received-SPF: pass (google.com: domain of infonexustechsystems@gmail.com designates 209.85.220.41 as permitted sender) client-ip=209.85.220.41;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@gmail.com header.s=20210112 header.b=E5SSYWJa;
+       spf=pass (google.com: domain of infonexustechsystems@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=infonexustechsystems@gmail.com;
+       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20210112;
+        h=to:subject:message-id:date:from:mime-version:from:to:cc:subject
+         :date:message-id:reply-to;
+        bh=PIa1s84SMBVWYu0hfsUHsE4wyp/GySHFwk0v+iXgIE0=;
+        b=E5SSYWJabnQh4tZGiZyqu0g79z+O/fpML0u+nEDabmW6k9/9MkSXocprNXxSNh4jYQ
+         fPihwoXXe3tpBtfPlU5d2a1lQjnBZOcZyd9KTNEwvzXA36X+npD3FmHy70mXuJxU+K+C
+         SdnwAAKbZJ2LEN9v06eJso9kRpSSlGW68JQbk28LjXDsMwEwi4U0R4zILJ+NsqA0dRtA
+         UmGZDKhWGrdCQ0a6Eu0DSvnNt0HaDOjSgU91DKuamcNLCxVRm3i7fEXt4k+qVMvp9aC7
+         sTLKrWe5BbCQCC9XzXswzuGlv4AoCtgV/ZwezXjq0fR+BO3D6rdCEWRXK3pMffELPoWc
+         Rocg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20210112;
+        h=to:subject:message-id:date:from:mime-version:x-gm-message-state
+         :from:to:cc:subject:date:message-id:reply-to;
+        bh=PIa1s84SMBVWYu0hfsUHsE4wyp/GySHFwk0v+iXgIE0=;
+        b=XzQ9wxnDBREdrcMLTKwrb7M7sO69UFpN2LQfL7xEyPcyGOo7bg8ZG+kuh6MwoNbNNu
+         KW0/KyrFSvwe9WttcmCvd/foBXLIRI/QNfjmPa856jHg5JFbNS5xHOHw6ZvQnsZiQZKr
+         S31cem4W94yxTsAZDHhL04k6/db/cP7hRB7QK0B1nvj7hO0sXr1SJvv7XExqA3NYPgPK
+         AEuzFrun/xf+71jHhSFJuiXwR7qAN2F/R8VaC+OCQLx0q0EL+s4bYplMka0IqsWOpPhT
+         v6fXZ+wqDiNWShfQ5q8n1yC0bYcigIvERHx8uLeQ2VpCBO6h6x3kIezZLvQf+Qp7KPJS
+         tAKQ==
+X-Gm-Message-State: ANoB5plxqBaKxiv0d3W3WSs2ICwMnjzCU8Konk7e3aHQwY2nf+qP2M23 qwckAfXqls4gnmON2N4h5Iz20FjYnpSbYcO2DmxKvaWZn347O93M
+X-Google-Smtp-Source: AA0mqf5YzBSbAX/6QDRJYVJ8HAJ9ZOs8UUvdY96vQIcAD7LvsW1JEOUd1MHV8eSWcaWG0gJqrHlBgW6u3S8qAkMszqQ=
+X-Received: by 2002:a9d:5a9e:0:b0:66e:b277:9c1b with SMTP id w30-20020a9d5a9e000000b0066eb2779c1bmr4284403oth.332.1670312404190; Mon, 05 Dec 2022 23:40:04 -0800 (PST)
+MIME-Version: 1.0
+From: nexustech infosystems <infonexustechsystems@gmail.com>
+Date: Tue, 6 Dec 2022 13:09:50 +0530
+Message-ID: <CAB+GoW4zQ-zLw9XCT3josonZA4vW+VqfOBU-kbXj57t=PRiMkw@mail.gmail.com>
+Subject: Regarding November month salary
+To: "kurukooti.nethaji1@gmail.com" <kurukooti.nethaji1@gmail.com>
+Content-Type: multipart/alternative; boundary="000000000000840ac305ef23e931"
+
+--000000000000840ac305ef23e931
+Content-Type: text/plain; charset="UTF-8"
+
+Good afternoon Nethaji , send me your bank details, account number & name ,
+and IFSC code .
+
+--000000000000840ac305ef23e931
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Good afternoon Nethaji , send me your bank=C2=A0details, a=
+ccount number &amp; name , and IFSC=C2=A0code .</div>
+
+--000000000000840ac305ef23e931--
+
+5
+
+
+Original Message
+Message ID	<CAB+GoW7LXaq_FLnHGteXigU9XCysmFw=4v8tHAhza-f-3Rg4-g@mail.gmail.com>
+Created at:	Mon, Dec 26, 2022 at 11:30 AM (Delivered after 16 seconds)
+From:	nexustech infosystems <infonexustechsystems@gmail.com>
+To:	kurukooti.nethaji1@gmail.com
+Subject:	Today Training Session Regarding
+SPF:	PASS with IP 209.85.220.41 Learn more
+DKIM:	'PASS' with domain gmail.com Learn more
+DMARC:	'PASS' Learn more
+
+
+Download Original	Copy to clipboard	
+Delivered-To: kurukooti.nethaji1@gmail.com
+Received: by 2002:a05:7010:f814:b0:31c:e4fb:fd78 with SMTP id pa20csp1685148mdb;
+        Sun, 25 Dec 2022 22:00:23 -0800 (PST)
+X-Received: by 2002:ac2:4f12:0:b0:4b5:b5d0:36e4 with SMTP id k18-20020ac24f12000000b004b5b5d036e4mr5979601lfr.13.1672034423393;
+        Sun, 25 Dec 2022 22:00:23 -0800 (PST)
+ARC-Seal: i=1; a=rsa-sha256; t=1672034423; cv=none;
+        d=google.com; s=arc-20160816;
+        b=KvaLwtU+6POw6s7aU7Xno3UOGldsw8ZqF59zjN1qsq1RDk/Q30wnAHejgpXDnKSsRl
+         K+A22ANrwi88W9rLVT4HxviuvAMbIiAhg26dhoFn5FSX8MSh35V0uqSg92py4c4pkz/8
+         PyPYb0uK5MZy3AF1RI6A/djLizEAestLdNBHkz0E3De5kZdVJHeTWz3t/3EhyIx66kpA
+         7Exu7bV+wuhtM7rPa4+oB4s7F/ilq37ghZIHf6ssc0AVYazwaHTlomfkztrf0vRIfw+p
+         IST8HF5NPeyiW2HCt5N2cEejqOz6IE/42oBJxFQBwEakJwpppz6WyplsGq6NJ1hXLVOc
+         5LvA==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=to:subject:message-id:date:from:mime-version:dkim-signature;
+        bh=FvUXfuBXz6J/L25JQ6iBtRB0EZ6cVpFt5Tx1IGAp4eQ=;
+        b=jr1y3M4vDrjRwP6rqcpbRhZHxxdrpQcRM9UswzhkvAhFsqo/NVpqMpU1s3BXd4r0Tw
+         v+LaIlykSlLwcsOcUbvHvG+inAu3Wue+8wlnQf1PkRgS9P+Od0jUxgc5WdnkiVhnNDn5
+         HGo+mBOC1CJBVGGvucNK/95gw5uXT/A+JwtxofTp/lAnAduF7X93wSfV8+ySWwRygz1s
+         /17bBthQ1MtpoOe1BUNiFtZYYnSCi6WaiZIerUZD2uO7SlYT9Yt687vk1JuRjjikOMaX
+         vxgTGGeOBEInHQPNNdFk+DdJCZonLIfWQZ5Q/Wan0TxwEQpeletXZ4/H1SuWykCN60Jk
+         hx+A==
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@gmail.com header.s=20210112 header.b=oUQDVe7K;
+       spf=pass (google.com: domain of infonexustechsystems@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=infonexustechsystems@gmail.com;
+       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com
+Return-Path: <infonexustechsystems@gmail.com>
+Received: from mail-sor-f41.google.com (mail-sor-f41.google.com. [209.85.220.41])
+        by mx.google.com with SMTPS id i23-20020a198c57000000b004b57a5c1100sor1604021lfj.182.2022.12.25.22.00.23
+        for <kurukooti.nethaji1@gmail.com>
+        (Google Transport Security);
+        Sun, 25 Dec 2022 22:00:23 -0800 (PST)
+Received-SPF: pass (google.com: domain of infonexustechsystems@gmail.com designates 209.85.220.41 as permitted sender) client-ip=209.85.220.41;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@gmail.com header.s=20210112 header.b=oUQDVe7K;
+       spf=pass (google.com: domain of infonexustechsystems@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=infonexustechsystems@gmail.com;
+       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20210112;
+        h=to:subject:message-id:date:from:mime-version:from:to:cc:subject
+         :date:message-id:reply-to;
+        bh=FvUXfuBXz6J/L25JQ6iBtRB0EZ6cVpFt5Tx1IGAp4eQ=;
+        b=oUQDVe7KEVbaDX26XjBnIf+85DHpOvG/dDVJXKn7Dt25ew6G3UVhbPWpFCLSa0qYMP
+         Jpsjwg6svebCruyNBYXQk/9n2fbKjcQMNPdxBJ1FbnOZvGTNrE4VRsWXoF0iw/h1ZBX8
+         a93kLAMQatj+9mqrSpQMXZNF/eXe9n8FgsC6RS66yHfh3bXQr3V1cUAJo/18Z9azbvcD
+         g/bqgmdHJJzCUJiIXrZL08bw1xGYgnz4pwZNvewHwSZOQxBFiLRDrvoKlh1LLbmfs/c/
+         wW+tRxcjMQeBuJTzh6r8JPYfabI7cN+Cn0xFZnTr9dwkZNGcSCJOLt7EhtpNlgGYSYu4
+         eMhw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20210112;
+        h=to:subject:message-id:date:from:mime-version:x-gm-message-state
+         :from:to:cc:subject:date:message-id:reply-to;
+        bh=FvUXfuBXz6J/L25JQ6iBtRB0EZ6cVpFt5Tx1IGAp4eQ=;
+        b=XgIF2xhMyOTwsgOw+78uyUqsPdM35K/CDR/dDPDe7QPKJTncsOUq88/dz26yN4Ueps
+         8Vnp+IfNqqGJ4/ZJEW3/yYeZBnoBA8KxUh1DYe1P5+udvNqpx3wb6qt4d0ItevVi778c
+         7vYbcgMV/2lJkd3d1gvYp+OfvOKaUO4K6Ofc37ds4Hbk04sBH6RtOHYQ+7wlt66hAqJB
+         K1dIktOmbMwBprwOILs6aEXB1BKkW4p5yNoMxEGgVqT4S5aMMGh3ydo2dKwnY1jFsb9a
+         xuj/1odRQJHE3Z1zJk0MKY3jmNIXlItQQgTqUIwjCN/nr8lSk3Zm+Q4ba/iaL1hMcGmF
+         yZwQ==
+X-Gm-Message-State: AFqh2koE2ZqJyOJLCpZbYaw0O4/yqw+AycmWk6/Zf3TNiHL3UmAhxdEy 5iU11wdKSQq/Jc8VvbT8CaYJi+3fhP5LLqbG8qeeSH7S
+X-Google-Smtp-Source: AMrXdXs77Rve15ryNyCSZ1Jga4VL04WAj+oFgr3Pka43nYCD/lcbnxc00h/lNgrLcGHCkHLy2+61FtLuBH25Y4HRnlc=
+X-Received: by 2002:a05:6512:c01:b0:4b5:28fc:36e1 with SMTP id z1-20020a0565120c0100b004b528fc36e1mr695520lfu.179.1672034422799; Sun, 25 Dec 2022 22:00:22 -0800 (PST)
+MIME-Version: 1.0
+From: nexustech infosystems <infonexustechsystems@gmail.com>
+Date: Mon, 26 Dec 2022 11:30:07 +0530
+Message-ID: <CAB+GoW7LXaq_FLnHGteXigU9XCysmFw=4v8tHAhza-f-3Rg4-g@mail.gmail.com>
+Subject: Today Training Session Regarding
+To: kurukooti.nethaji1@gmail.com
+Content-Type: multipart/alternative; boundary="000000000000d2c15805f0b4d950"
+
+--000000000000d2c15805f0b4d950
+Content-Type: text/plain; charset="UTF-8"
+
+Hello Nethaji Good morning, from today onwards training session information
+will be sent through your mail id . so please check  your mail ID every
+hour & forwarded zoom link to mail id only, thank you.
+
+--000000000000d2c15805f0b4d950
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Hello=C2=A0Nethaji Good morning, from today onwards traini=
+ng session information will be sent through your mail id . so please=C2=A0c=
+heck=C2=A0 your mail=C2=A0ID every hour &amp; forwarded zoom link to mail i=
+d only, thank you.</div>
+
+--000000000000d2c15805f0b4d950--
+
+
+
+
+6
+
+Original Message
+Message ID	<CAB+GoW6AgpWgE-UxQRULm0iyLO=h5hkWOn01aP7kgF+2Edik0w@mail.gmail.com>
+Created at:	Tue, Dec 27, 2022 at 11:53 AM (Delivered after 12 seconds)
+From:	nexustech infosystems <infonexustechsystems@gmail.com>
+To:	kurukooti.nethaji1@gmail.com
+Subject:	Training session starts from 12:00 FN
+SPF:	PASS with IP 209.85.220.41 Learn more
+DKIM:	'PASS' with domain gmail.com Learn more
+DMARC:	'PASS' Learn more
+
+
+Download Original	Copy to clipboard	
+Delivered-To: kurukooti.nethaji1@gmail.com
+Received: by 2002:a05:7010:f814:b0:31c:e4fb:fd78 with SMTP id pa20csp2332711mdb;
+        Mon, 26 Dec 2022 22:23:55 -0800 (PST)
+X-Received: by 2002:ac2:5297:0:b0:4b5:a4f1:fbbe with SMTP id q23-20020ac25297000000b004b5a4f1fbbemr8087163lfm.67.1672122234924;
+        Mon, 26 Dec 2022 22:23:54 -0800 (PST)
+ARC-Seal: i=1; a=rsa-sha256; t=1672122234; cv=none;
+        d=google.com; s=arc-20160816;
+        b=VDb/M4cyOBX2aE4d8H6AMxwsVOdzOqPC24Sgcg2UI5e3fduOXayvyRzpHVUDcTeTol
+         fZqAf9dL6KYYJnw3SHGlARVNl6mmTZukMRYETHK7uxjyRDZgkoKgcigARZ3SqcgQrWoY
+         EO/+0zd5DetA0XVeFQd9IqLr9MxDLpSpg2Pv7zGyLi/kVZ1LN8y6mOVXYh54RIZFu4CG
+         BV/Pl0sRjzXZ8Kf/VJLRX98f6DaGFbKaX/gS3zsVDsCnYKseTvUYKSPFFIIUF0Sa7IxF
+         xptRX6XGJt1pZflDbS0sdotxMXYwJ1qdiMigHD0O+1mW7nJ9zSSnixe9Wbd9eP1BKW1L
+         oDBA==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=to:subject:message-id:date:from:mime-version:dkim-signature;
+        bh=lSK0ayIzg56tM4W1IXDsNTqr4fz/0c2PQ0UG1d7ei+A=;
+        b=c0k9chDVOQuqsK/ONI5af0GPcokD5DybD15bObfAmO3LvIiRkOX9KZ+oTTwgK+ZM1T
+         nqVLz16HehzHYUGRr8gaStFfqUaiIp9LUtGBjOdggti7wkTocLpXqfuEk+MWOQ6w0V25
+         ZYW5vJUNAYHkDa4CVtyKDbqGVTg5X9+1mvT+bKM+rCHzSuqlxTRaYXCzOg6AD/6iv6Rp
+         u3bBwJZRWG9Ofz/aa4JyoJGB9y5+tBPII5yKjP48IH0TC388U1TTdnadNntSInMBfkGs
+         CN2+/Qjo1NkVyFVJeP/F1F/ow3yyiwHrzuIyH3GcOoM+t4iGefHSjjVdWxoVJfd6jrP1
+         RMIA==
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@gmail.com header.s=20210112 header.b="TR2/PkGA";
+       spf=pass (google.com: domain of infonexustechsystems@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=infonexustechsystems@gmail.com;
+       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com
+Return-Path: <infonexustechsystems@gmail.com>
+Received: from mail-sor-f41.google.com (mail-sor-f41.google.com. [209.85.220.41])
+        by mx.google.com with SMTPS id m27-20020a19711b000000b004b0e7180b26sor2150013lfc.50.2022.12.26.22.23.54
+        for <kurukooti.nethaji1@gmail.com>
+        (Google Transport Security);
+        Mon, 26 Dec 2022 22:23:54 -0800 (PST)
+Received-SPF: pass (google.com: domain of infonexustechsystems@gmail.com designates 209.85.220.41 as permitted sender) client-ip=209.85.220.41;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@gmail.com header.s=20210112 header.b="TR2/PkGA";
+       spf=pass (google.com: domain of infonexustechsystems@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=infonexustechsystems@gmail.com;
+       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20210112;
+        h=to:subject:message-id:date:from:mime-version:from:to:cc:subject
+         :date:message-id:reply-to;
+        bh=lSK0ayIzg56tM4W1IXDsNTqr4fz/0c2PQ0UG1d7ei+A=;
+        b=TR2/PkGAulcHMsmotr/vU2yBs6BHlRfjjHIM3S9VcrbB8L6A7RlWNjFjnuOjbQBF1P
+         WtlLqPVi3ITUvhDD+WhPPIGfat5O82twN5pBo0K3Mp3n2bU9DV0NIr0BgjbUTm9ryVPf
+         WbMY28IcB0b5TzKSxQZPUGTFyyDDlroRlGjZi1I5IZfui2b3D1aw2n+Q2BH7S92QIVN4
+         47ExMZQcmI4Z3d1S3QIttPk2JMHI/UIjZFqkV7wMDlmHWEOJaOFJ4Abcd4Uh91bM+10w
+         3nXkkLfenSEPf3JYceF6kYDqlk9/P3uAwFN89OSkENOYjPY0NWgG3zSDXNNMrYUGeh57
+         B+ug==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20210112;
+        h=to:subject:message-id:date:from:mime-version:x-gm-message-state
+         :from:to:cc:subject:date:message-id:reply-to;
+        bh=lSK0ayIzg56tM4W1IXDsNTqr4fz/0c2PQ0UG1d7ei+A=;
+        b=NaWIAp5cvVc+vUwmkz09nK4jyGOS8Ic7WcJawLTDLaDwnMqyikEajj5pLV3rhiDg2X
+         p08k1VuQHF2kq7Lp+JapyCz5qsm5LsHz6L4MCqb0B72eUyR+OUxYHz8/Z2qVhzqAiFYt
+         LpPUUvIaf+RAA2QB5d9xaRp1qino0HOR/Sv9BOhhP2erb5FdW+xr0n7QcRbtMbGNiHJ6
+         R7gdIc38hcBi3o+cFP1sLmkTFN0IAULKrl30lutnjJ7xq1vCkGn6nXPqOPKtMODwY8gp
+         dd+AwBLK1YIP4LUX1whgmhV0wbUXu0YYVeWJ7oTSq/GAyppMWuo5IffZGKiichhI/y8N
+         MxEA==
+X-Gm-Message-State: AFqh2krS2EmuGoP9nSUUPtRRKc5NpzsZz3CCaboSKQ4zrwvcJdInBPe7 EU7dJZU2GbqGOc8jG4Yo7UwBx+U521ZMbluV26khEVGh
+X-Google-Smtp-Source: AMrXdXvFb6kqcY7r965aBS+smjqSjPqW/LUISR8jwUyB91LC5aPc7xvrJpliYfLNXv10QyT8OkbNDm6mOsM6c1UT5Hg=
+X-Received: by 2002:a05:6512:e82:b0:4ca:ce30:478b with SMTP id bi2-20020a0565120e8200b004cace30478bmr1548151lfb.298.1672122234183; Mon, 26 Dec 2022 22:23:54 -0800 (PST)
+MIME-Version: 1.0
+From: nexustech infosystems <infonexustechsystems@gmail.com>
+Date: Tue, 27 Dec 2022 11:53:42 +0530
+Message-ID: <CAB+GoW6AgpWgE-UxQRULm0iyLO=h5hkWOn01aP7kgF+2Edik0w@mail.gmail.com>
+Subject: Training session starts from 12:00 FN
+To: kurukooti.nethaji1@gmail.com
+Content-Type: multipart/alternative; boundary="000000000000ca244605f0c94ba4"
+
+--000000000000ca244605f0c94ba4
+Content-Type: text/plain; charset="UTF-8"
+
+Hello Nethaji, your training session starts very shortly, follow your
+training schedule.
+
+--000000000000ca244605f0c94ba4
+Content-Type: text/html; charset="UTF-8"
+
+<div dir="ltr">Hello Nethaji, your training session starts very shortly, follow your training schedule.</div>
+
+--000000000000ca244605f0c94ba4--
+
+
+7
+
+
+Original Message
+Message ID	<CAB+GoW5X95aCg9yuGzZFOG3S8StNsBdg4hGHuy0oyvds11G57Q@mail.gmail.com>
+Created at:	Thu, Dec 29, 2022 at 9:42 AM (Delivered after 12 seconds)
+From:	nexustech infosystems <infonexustechsystems@gmail.com>
+To:	kurukooti.nethaji1@gmail.com
+Subject:	Training session starts at 10:00am
+SPF:	PASS with IP 209.85.220.41 Learn more
+DKIM:	'PASS' with domain gmail.com Learn more
+DMARC:	'PASS' Learn more
+
+
+Download Original	Copy to clipboard	
+Delivered-To: kurukooti.nethaji1@gmail.com
+Received: by 2002:a05:7010:f814:b0:31c:e4fb:fd78 with SMTP id pa20csp3614965mdb;
+        Wed, 28 Dec 2022 20:12:19 -0800 (PST)
+X-Received: by 2002:a2e:93c6:0:b0:27f:958a:9277 with SMTP id p6-20020a2e93c6000000b0027f958a9277mr10106624ljh.12.1672287139528;
+        Wed, 28 Dec 2022 20:12:19 -0800 (PST)
+ARC-Seal: i=1; a=rsa-sha256; t=1672287139; cv=none;
+        d=google.com; s=arc-20160816;
+        b=G0kRGOd+x3YvsASdgyrgWXuJz6ANcH/ou3ZCGWhYV3wJ2pLrn24wFGmj1apHnNCSry
+         3QAttofud0xpYXVADjWh29dnPO1fXunMr2lJkr3nQL8ky0weGQqWdD9bIvrwN/gAsQBF
+         TLISN4Rt1qFlTqXuBy4zGknFiMs7YYq9bN0nOPBLnJhtB051CWe2cSCV1wbOJ5x1LYF9
+         iWe2JsraZdw9PRODGV3R3LRZNZsXynOzCdFtFy3BPw3/cBIvJd9BvBa/HC8OtWfnXDQd
+         aIRcwqrFno+LElpwwU7J2+E8g1JgiMCa4VxXlrNA5nsRbYnAvm2ylWV0TPcZNGk1PSsH
+         3xvQ==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=to:subject:message-id:date:from:mime-version:dkim-signature;
+        bh=znDeHhy+UFZqRz+d+hYmRgxDuWvkwvE/6ofcpRd+Vls=;
+        b=SFgf9EjMBa0y6GDoOX7Fx5EevXb+5maxWi+uKsCnNCj7vuUTzhKYzoukYaCjk4PU/y
+         sgAg6dkVTPpshwYe8Pin0JoMjBx4qEA4bzOZvZLraj8DemH4B2Yws6RgUbFke88m/zLu
+         OoeYmnhhnSvlcOC1Hqnvk+pYpdj3dRevrPlLnfWxNSiFGtleGNLsDsnvqQFpVDkfbdCz
+         NXo3IGV32QMFhx/Y2k7nOWusOdZpeRlKa2L6foiahlp20mKRVr9C4PoBBZ5abdhSKNat
+         96Xjvbmp6Snmehu6mOsbCjKMy3FYQiURHQR0r0wVCelnGJPA2fLjAf532vMJTXenq/SL
+         pASw==
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@gmail.com header.s=20210112 header.b=JsrrMhgs;
+       spf=pass (google.com: domain of infonexustechsystems@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=infonexustechsystems@gmail.com;
+       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com
+Return-Path: <infonexustechsystems@gmail.com>
+Received: from mail-sor-f41.google.com (mail-sor-f41.google.com. [209.85.220.41])
+        by mx.google.com with SMTPS id k21-20020a2e92d5000000b0027fcdec8b43sor1507672ljh.14.2022.12.28.20.12.19
+        for <kurukooti.nethaji1@gmail.com>
+        (Google Transport Security);
+        Wed, 28 Dec 2022 20:12:19 -0800 (PST)
+Received-SPF: pass (google.com: domain of infonexustechsystems@gmail.com designates 209.85.220.41 as permitted sender) client-ip=209.85.220.41;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@gmail.com header.s=20210112 header.b=JsrrMhgs;
+       spf=pass (google.com: domain of infonexustechsystems@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=infonexustechsystems@gmail.com;
+       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20210112;
+        h=to:subject:message-id:date:from:mime-version:from:to:cc:subject
+         :date:message-id:reply-to;
+        bh=znDeHhy+UFZqRz+d+hYmRgxDuWvkwvE/6ofcpRd+Vls=;
+        b=JsrrMhgsSyrbDPUPbqKCVF0JvH8QtN7oxNs9FgVVVhjznx6uAZqYeRgdpnx2B2KmQ0
+         0g7tWS2RFQlIVP+aoo0W71dnrTzRI/b0CQQ2ZkmBrQSzk4sDDTJed88rilvLcXfb2yx1
+         A15CaqX8xxyzqOMf5AX72Oc+/WO/wzZSMGka+zE1C6197M8AfdYCijQcVnyxo5I8iyjE
+         gMoVkFDEU5hJogGDuldWXDUks1Oi8YaUxWUpkpw7tOFpSINi2BMAraVK+FB/uYabVCaC
+         BJhsSPxOrwyGvEc5k6boTz5rNPpkXEUHRgsrhXH0XGwgF+u9OxBP5k7PZ+f1uaGV6WNL
+         OYFg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20210112;
+        h=to:subject:message-id:date:from:mime-version:x-gm-message-state
+         :from:to:cc:subject:date:message-id:reply-to;
+        bh=znDeHhy+UFZqRz+d+hYmRgxDuWvkwvE/6ofcpRd+Vls=;
+        b=J5kVSlhoqTTHQ+kMD58NLgWd9mItjf1Pe7brLUzwr0STgd9vGeGquPTfF2aIpNGfLg
+         SC1I8sJraJAzaHVt/rKty5Q2+tYyiZNouAz09gmUoKdSkkFyb2w985o77F0SqbtMMinR
+         dVlPtRJoPeP3ekIGBcKVzsT8YrKSJB1TzENbIDCRlCw2/q48moLMKFlsUjbi6ADkZNS1
+         KQSQ3BOg8lgi4MRBCzF9wWYNGdSGx3KfE96y0U4RWBWlGPjs2omLoUQhHleoDd8wfB3J
+         dipA+AJbfsOFKe4UTW7pZDj+XWS3zHU92yRj2OBegqcfGOUelInMAz/eyvslFgJGFXqS
+         7Djg==
+X-Gm-Message-State: AFqh2kooLfQ+WLlvXKIb/tJpTXO6u6BketgiA3OVUXPTEFt00cNT7Mk1 zj3kuY7ECTW33Kb0AXWbKdB5NV11kLJ2uTpUaZiPfVqM
+X-Google-Smtp-Source: AMrXdXt5EqMqJihXXzy7gRGz2lCvqHIhtThCT2q1A5zGGimwQKF6eCexmEKlnYTLdsph72Ygz5v2Mhmm6PoYX7V8rj4=
+X-Received: by 2002:a2e:a27c:0:b0:27f:d6ce:c0c5 with SMTP id k28-20020a2ea27c000000b0027fd6cec0c5mr137124ljm.216.1672287138801; Wed, 28 Dec 2022 20:12:18 -0800 (PST)
+MIME-Version: 1.0
+From: nexustech infosystems <infonexustechsystems@gmail.com>
+Date: Thu, 29 Dec 2022 09:42:07 +0530
+Message-ID: <CAB+GoW5X95aCg9yuGzZFOG3S8StNsBdg4hGHuy0oyvds11G57Q@mail.gmail.com>
+Subject: Training session starts at 10:00am
+To: kurukooti.nethaji1@gmail.com
+Content-Type: multipart/alternative; boundary="000000000000deed8305f0efb0d8"
+
+--000000000000deed8305f0efb0d8
+Content-Type: text/plain; charset="UTF-8"
+
+Hello Nethaji, today training session starts at 10:00 am by using zoom app.
+
+--000000000000deed8305f0efb0d8
+Content-Type: text/html; charset="UTF-8"
+
+<div dir="auto">Hello Nethaji, today training session starts at 10:00 am by using zoom app.</div>
+
+--000000000000deed8305f0efb0d8--
+
+
+8
+
+
+
+Original Message
+Message ID	<CAB+GoW48kotc9T9rdH54QMZk5P5nkb5ezyz=OD9QYOgqMm3uSg@mail.gmail.com>
+Created at:	Fri, Dec 30, 2022 at 10:41 AM (Delivered after 11 seconds)
+From:	nexustech infosystems <infonexustechsystems@gmail.com>
+To:	kurukooti.nethaji1@gmail.com
+Subject:	Training session starts on 11:00 am
+SPF:	PASS with IP 209.85.220.41 Learn more
+DKIM:	'PASS' with domain gmail.com Learn more
+DMARC:	'PASS' Learn more
+
+
+Download Original	Copy to clipboard	
+Delivered-To: kurukooti.nethaji1@gmail.com
+Received: by 2002:a05:7010:f814:b0:31c:e4fb:fd78 with SMTP id pa20csp4268196mdb;
+        Thu, 29 Dec 2022 21:11:22 -0800 (PST)
+X-Received: by 2002:ac2:5191:0:b0:4cb:20b3:e7f6 with SMTP id u17-20020ac25191000000b004cb20b3e7f6mr1129243lfi.19.1672377081828;
+        Thu, 29 Dec 2022 21:11:21 -0800 (PST)
+ARC-Seal: i=1; a=rsa-sha256; t=1672377081; cv=none;
+        d=google.com; s=arc-20160816;
+        b=PQo7Y6TYzSk7iBg4NuHnYYzr7M9MRJmne2WMVvDCrQzdH4JF3mdEC9GrJw44q0aNb3
+         mT3uZtOf7H2sdXRUD1bxeDgzK2Uy4aoleCzrxPPjXKWgPRiQlkuLyWSUHLSG9Ixj9b+5
+         dyWKu87rhJxR60KYnmnbN6ujt9riv1l3V6usygfpe2knYxq6GQwEXg2iRmy9KF3vFLlQ
+         tqGFIjhT/cNJvqSTUT4suXOFytB7+caLK5ZbKDC/yWsj7JyoS9t400mImALkd33vpoIR
+         /wW1udNY5NghvqxyTTozzgEr9fbJrtv5YQBM8PjpnhfNFMSz7YJ1AwYPySG5n2MC9ZRG
+         Ec1w==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=to:subject:message-id:date:from:mime-version:dkim-signature;
+        bh=g5uD0fobyBFykEx9tNWEOiH+2lDLYlQbPp+X77oawcs=;
+        b=zBc2hdF2DtGX+Hh0rZTPa3OKPDv7CkN7moVxZPjmWjxn3rKkkfbxOQ5pcXVk/sW+sA
+         44dWCcUY0HCbTwOZAK3AufDv9oTuRcmY49ey8Ne0KzRqBwvwv7OIDh4J9FsugH4t1eLF
+         ML0rOcS+xO5Egtu7iPvOKaDqTxOMW8zfKC7g6lK33lAfxiaudhTHOwmm8FyDBIRCJqxf
+         7/2+U4q32EI1QMI8VY3yH/D3M2ilIgTzG2KmmNuFJVjexDB0N352F0qe+qzYzVmBn4dL
+         z+CRTawIhNEmr6+ZZ/visx6qP4kPC3DtbRqJemymr/8GnAbnco3IZqN+ntQw46tXVn3g
+         ZjxQ==
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@gmail.com header.s=20210112 header.b=UzMmC8r5;
+       spf=pass (google.com: domain of infonexustechsystems@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=infonexustechsystems@gmail.com;
+       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com
+Return-Path: <infonexustechsystems@gmail.com>
+Received: from mail-sor-f41.google.com (mail-sor-f41.google.com. [209.85.220.41])
+        by mx.google.com with SMTPS id b10-20020a19670a000000b004cb121341cdsor1704538lfc.61.2022.12.29.21.11.21
+        for <kurukooti.nethaji1@gmail.com>
+        (Google Transport Security);
+        Thu, 29 Dec 2022 21:11:21 -0800 (PST)
+Received-SPF: pass (google.com: domain of infonexustechsystems@gmail.com designates 209.85.220.41 as permitted sender) client-ip=209.85.220.41;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@gmail.com header.s=20210112 header.b=UzMmC8r5;
+       spf=pass (google.com: domain of infonexustechsystems@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=infonexustechsystems@gmail.com;
+       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20210112;
+        h=to:subject:message-id:date:from:mime-version:from:to:cc:subject
+         :date:message-id:reply-to;
+        bh=g5uD0fobyBFykEx9tNWEOiH+2lDLYlQbPp+X77oawcs=;
+        b=UzMmC8r5jY2JbTa74n/G7zQ1F8wOfjPRWnDYAs2vjCRj50yJPqpUgnC3XP0o1f/u2m
+         7XHrCiK7K0DrTFe5lVUrHf91BZaGMas0EYDjP7MZavb2qHmytoeprhLazkWL5p1VIsMk
+         KJ1zT9qW7EJMgVSm4RDHGWuD9Ylc+uGCeX4Np/d8nfgt7LkkiEM+QgqnMtqCdvwgod7w
+         XcH0F0BcUn+/J4qe+B/TLebGMGnWrb2jfvl9tI6bKL7searz6rTG0myBRjxAREDX0eaw
+         CyIT77dBr8+rYQi2o9cFq7H5gWRowAXDNu5m4RVMYHyi/CKIroGw250BXjTbPA0wV47E
+         u1LQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20210112;
+        h=to:subject:message-id:date:from:mime-version:x-gm-message-state
+         :from:to:cc:subject:date:message-id:reply-to;
+        bh=g5uD0fobyBFykEx9tNWEOiH+2lDLYlQbPp+X77oawcs=;
+        b=prrw0CtSpQCZ+3rCLdKBRk2H3q2F4jFjfEH3boIcrDEor9q1bZmX22Mdb8GHxpFMWB
+         g/mgJSSYg31Namx/ZxCZEeNygqKZL6rtLS8cEXhc4JJwJJ4lXYLgno5ZHJZKjK50qWYp
+         IG85d0zD+UrscoCarRmbsJ4+VzUBZPkNee5hLV+hoxJiSxqATyCdYW6U69psrIgspLdR
+         7OS7YsCGWutRU+RhAGzo6w/9yDJ3NciXA/IRpRIZh9KR7bp0+9/cToF7anPN4KvDpYVW
+         y+N+U6KhgBJ8x0N6DZTAGBtYICgTCjW5dF4DHcQu19wkVR7kdkH6VYHTe1jXHMCHCCS4
+         6MMg==
+X-Gm-Message-State: AFqh2krxEDUuaSaW1hX96ZoR/JvRdxxA1qzWGN20fgsk3tJYrs/6Krlc ang6Z9IaqAl8Q+0W3bxpHJW0shN6CLPHo+xHaBCiCneA
+X-Google-Smtp-Source: AMrXdXudDeYSw5Sy32fwDiT0t0gxsU5ZnilfXw5pF+HJDwFE79l1JbEVeFySKVangDfllmGT+MXkH+VWGWxrNdo3yus=
+X-Received: by 2002:a05:6512:e82:b0:4ca:ce30:478b with SMTP id bi2-20020a0565120e8200b004cace30478bmr2286855lfb.298.1672377081213; Thu, 29 Dec 2022 21:11:21 -0800 (PST)
+MIME-Version: 1.0
+From: nexustech infosystems <infonexustechsystems@gmail.com>
+Date: Fri, 30 Dec 2022 10:41:10 +0530
+Message-ID: <CAB+GoW48kotc9T9rdH54QMZk5P5nkb5ezyz=OD9QYOgqMm3uSg@mail.gmail.com>
+Subject: Training session starts on 11:00 am
+To: kurukooti.nethaji1@gmail.com
+Content-Type: multipart/alternative; boundary="000000000000db37ae05f104a17e"
+
+--000000000000db37ae05f104a17e
+Content-Type: text/plain; charset="UTF-8"
+
+Training session starts on 11:00am
+
+--000000000000db37ae05f104a17e
+Content-Type: text/html; charset="UTF-8"
+
+<div dir="auto">Training session starts on 11:00am</div>
+
+--000000000000db37ae05f104a17e--
+
+
+9
+
+Original Message
+Message ID	<CAB+GoW4+p4PjdmYBjkoD=di-zKcdxzNo3=LAbw5Z431T57YUeQ@mail.gmail.com>
+Created at:	Mon, Jan 2, 2023 at 11:00 AM (Delivered after 12 seconds)
+From:	nexustech infosystems <infonexustechsystems@gmail.com>
+To:	kurukooti.nethaji1@gmail.com
+Subject:	Training session starts on 11:00am
+SPF:	PASS with IP 209.85.220.41 Learn more
+DKIM:	'PASS' with domain gmail.com Learn more
+DMARC:	'PASS' Learn more
+
+
+Download Original	Copy to clipboard	
+Delivered-To: kurukooti.nethaji1@gmail.com
+Received: by 2002:a05:7010:f814:b0:31c:e4fb:fd78 with SMTP id pa20csp5988287mdb;
+        Sun, 1 Jan 2023 21:30:36 -0800 (PST)
+X-Received: by 2002:a05:6512:3d9f:b0:4a4:68b7:f878 with SMTP id k31-20020a0565123d9f00b004a468b7f878mr16435121lfv.28.1672637436342;
+        Sun, 01 Jan 2023 21:30:36 -0800 (PST)
+ARC-Seal: i=1; a=rsa-sha256; t=1672637436; cv=none;
+        d=google.com; s=arc-20160816;
+        b=bgOHu3/2boAntKCwOTHzVBnvABOB+osouXLvNQ+GdH8dWk6jVUoBFsO4FkkAIwA5z+
+         H7wGT1z+C7nbno8QyNfBT4Ykb2x5MKDnYWBhWf73OCvPS214qSW2xRu5Ebm7Pd7WqHR6
+         u+zxjuqPG6SZGAcnJnBDMC3imbThWHRaPF+P33fNLSiD5g1u9xtiJUaQsSXATcdIccKa
+         VahrPqOgP28bQdk9yglVBhy/HfoMRnC7bnZ3mBTcmHAMykag2SZh1uKUWuq95ZSSiwVR
+         Afv+neBjbxZ/e2oU5SB0CULghH0bGEkUE9bZly/hunSnYaSlsO8uEugqwaxaTieede5E
+         sOeA==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=to:subject:message-id:date:from:mime-version:dkim-signature;
+        bh=awRtKXp/YLCMZg/U6SkMlSFPHKmAUiZAALAWDacjvJ0=;
+        b=c0uH3xMGEDPpVUqCTF4QZZLjP6QPXpHz6X8mWUIc8QY+u60txJ4YMNaZ3NbUNFu9tg
+         6IEvoZ5ZpEkNRNtrGWfOa0mpwO/9Rz/qOd4ewj1dB0w0q/r6XW7kztWj7MNOYIFTRkhh
+         JBrlQceVXSfemF1yampXPI6gq63jlMisDNsm+JtwmrmXxRL3yij9PdifFuYJnFILMcbc
+         BFiAQ6nV51vAF4YzYyRff3GMcFYG9Zc6/ZET+y8TGzDUgDm8kwDY1kxdGlU7eJ62tDAo
+         1zt6Wek6n2jPcgNJVroEhcYcekHj1QQlHHGR2RgZknjiksix5lratUaX0WyqkkMB3N1e
+         FaTQ==
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@gmail.com header.s=20210112 header.b=BikrIkKe;
+       spf=pass (google.com: domain of infonexustechsystems@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=infonexustechsystems@gmail.com;
+       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com
+Return-Path: <infonexustechsystems@gmail.com>
+Received: from mail-sor-f41.google.com (mail-sor-f41.google.com. [209.85.220.41])
+        by mx.google.com with SMTPS id z12-20020ac24f8c000000b00492eeae37b2sor5026547lfs.26.2023.01.01.21.30.36
+        for <kurukooti.nethaji1@gmail.com>
+        (Google Transport Security);
+        Sun, 01 Jan 2023 21:30:36 -0800 (PST)
+Received-SPF: pass (google.com: domain of infonexustechsystems@gmail.com designates 209.85.220.41 as permitted sender) client-ip=209.85.220.41;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@gmail.com header.s=20210112 header.b=BikrIkKe;
+       spf=pass (google.com: domain of infonexustechsystems@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=infonexustechsystems@gmail.com;
+       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20210112;
+        h=to:subject:message-id:date:from:mime-version:from:to:cc:subject
+         :date:message-id:reply-to;
+        bh=awRtKXp/YLCMZg/U6SkMlSFPHKmAUiZAALAWDacjvJ0=;
+        b=BikrIkKe3HnrXhB6C9T36ZFirs8GIstcOpEhpe/d+gSWi24BCJz88nUTZovANFFuoK
+         ukXMLdAIReYLJAw94k4gCSSudJ75PhfNYpVH0A6pXy1I0jnxARfFFVX45P9BuWVwughS
+         2Ib+TM1Vsye259HH4qooJNv6Yzjj4L9K1G/C/rYmUkVW9xUeaRWQ/qFQvHMSG3Lj+Mwt
+         UCo/X+32MdLkHPNDYsOHyUQoYux+IBcr5RRHSglzyHPwYD2JgG8T+IOCQGO35nKKveNY
+         8BOF03N6w+zxoZ9sYVnxfIA+WrbUd7YaPCYtj8GrBfuK4aGsmC3XTzC2yd1Uz+hRENeo
+         Eguw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20210112;
+        h=to:subject:message-id:date:from:mime-version:x-gm-message-state
+         :from:to:cc:subject:date:message-id:reply-to;
+        bh=awRtKXp/YLCMZg/U6SkMlSFPHKmAUiZAALAWDacjvJ0=;
+        b=UEOYKSmWaz5NHuObjYwfb8Lk4eStqz64XT/xYZWdw60qpPkOqBMuCH2Yw9dPtCR0x3
+         fyEaog3Tv5+2LKMRuMFODoZ221wVJrB3eX4uFxw6eKtBfqgrbARESJR1fVcUc9MPDhlW
+         YVeFIQI6GTCJsN52dohVYAsbFdLXgODCyoi1FWXIKtHPAwjypPRy2+ILqA4Q44Uq2Oey
+         srFMKpVJJ62joAHfGbFcP04wVggezXnLax/HKIXCQa+ZA/1+63Ew4iJ+L4ZaS0kwyR0B
+         qAG+8sYZbRClvXkGnzvVCtZh1psF5Zpp1HsslQTPvIVCFaxzTdY+Fr1GZeMIRQ6etxOD
+         Vx+Q==
+X-Gm-Message-State: AFqh2kqLPBjXDn2VT60hZO6q6BDJjOHeBFa+crKIjEQLCnQJSSpU6tHB eV5523iTRSI3U1LnMnOsg+ap+WQWFs84SMWu8AlcvDiIXcscqA==
+X-Google-Smtp-Source: AMrXdXv5M44uFDwmv2XeKMV8jTvDDVVRql4ti+IaKQvR8UvsxrFTsaK3I1MAOm5MUrkAghZNgJZfIJYDqB4KUspU3Rc=
+X-Received: by 2002:a05:6512:285:b0:4b5:685a:c1c9 with SMTP id j5-20020a056512028500b004b5685ac1c9mr1653078lfp.99.1672637435687; Sun, 01 Jan 2023 21:30:35 -0800 (PST)
+MIME-Version: 1.0
+From: nexustech infosystems <infonexustechsystems@gmail.com>
+Date: Mon, 2 Jan 2023 11:00:24 +0530
+Message-ID: <CAB+GoW4+p4PjdmYBjkoD=di-zKcdxzNo3=LAbw5Z431T57YUeQ@mail.gmail.com>
+Subject: Training session starts on 11:00am
+To: kurukooti.nethaji1@gmail.com
+Content-Type: multipart/alternative; boundary="0000000000003135fc05f14140e1"
+
+--0000000000003135fc05f14140e1
+Content-Type: text/plain; charset="UTF-8"
+
+Training session starts on 11:00am
+
+--0000000000003135fc05f14140e1
+Content-Type: text/html; charset="UTF-8"
+
+<div dir="ltr">Training session starts on 11:00am<br></div>
+
+--0000000000003135fc05f14140e1--
+
+9
+
+Original Message
+Message ID	<CAB+GoW5-zmKqJnrxs9mL5ueKXfoeE=v6soA77nHaeOUG87fvHg@mail.gmail.com>
+Created at:	Wed, Jan 18, 2023 at 11:03 AM (Delivered after 12 seconds)
+From:	nexustech infosystems <infonexustechsystems@gmail.com>
+To:	kurukooti.nethaji1@gmail.com
+Subject:	Training session starts at 11:30am
+SPF:	PASS with IP 209.85.220.41 Learn more
+DKIM:	'PASS' with domain gmail.com Learn more
+DMARC:	'PASS' Learn more
+
+
+Download Original	Copy to clipboard	
+Delivered-To: kurukooti.nethaji1@gmail.com
+Received: by 2002:a05:7010:7308:b0:324:db1d:2964 with SMTP id h8csp1339469mdc;
+        Tue, 17 Jan 2023 21:33:38 -0800 (PST)
+X-Received: by 2002:a05:6512:39c2:b0:4d0:90f0:f81f with SMTP id k2-20020a05651239c200b004d090f0f81fmr1841176lfu.31.1674020017980;
+        Tue, 17 Jan 2023 21:33:37 -0800 (PST)
+ARC-Seal: i=1; a=rsa-sha256; t=1674020017; cv=none;
+        d=google.com; s=arc-20160816;
+        b=vOvKvKFDedEV2MrsZq1ES3AdULttIpnazfyIUYByIRUJnys4uSdsdxVATFBkCHdHN6
+         12J/H4grmw6yaUamL2Plwqj31mbHsBXrbFxSExDv12GqSUdCZVHJfalSLj3yNq3W6BcF
+         ZEX8eZVoNLCnNIP8Ae1vfRVtMwJxy5ncIouNuxcj8vwsM4VJ6hvBUJpJeVX4k8ZHHc4D
+         mtDoLgILiEPYceDKx1DZpsBx4EWmBjysqYm6HAuWA1FVYucamVrCUayq3d0g84zTW0So
+         1bwGoTfuRZzh1oVS9v2W+MyF3IITelDp7lhavLu1Li8R9OUN8HWhJiCMhP+NMzhpZk3R
+         XN1w==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=to:subject:message-id:date:from:mime-version:dkim-signature;
+        bh=0kppb67sHFdJ2ExCOkcGDXWYj+gYVcZtJ1AE1cbf9kM=;
+        b=aTSASfCreooOQdJ+ebTM49HRbBM7siWuD9MOKybKDisqLXShwpiP9U1IKLbeZHPrV6
+         ri+HGyaXSacfc8cTbMgyozjwct+n1YsHkaMX5FcPXHFHeatdsJhDxYhj+jIOfaQm6Wt2
+         7CC1Pd6/lB1t+9Z7IuZ5SnJpOVp27yJKQfXw5s4qz0W8YlaKVO0HeblV8FB1l4DRHHX5
+         7wXzH8vysDRYcCS6D8qKKmawkjJHO76siwIGTwEh/ejrgSOS0hjo/vzttEgX3Yv0sBOL
+         yk/ioek1PKPz0TevT5fmvOnYdlrveWyGY7G848k3pS67SYO9kAOHJgALA1EimP9MsiJs
+         GZOw==
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@gmail.com header.s=20210112 header.b=FXlFsq1M;
+       spf=pass (google.com: domain of infonexustechsystems@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=infonexustechsystems@gmail.com;
+       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com
+Return-Path: <infonexustechsystems@gmail.com>
+Received: from mail-sor-f41.google.com (mail-sor-f41.google.com. [209.85.220.41])
+        by mx.google.com with SMTPS id h21-20020a19ca55000000b004d576ad7b43sor1786954lfj.47.2023.01.17.21.33.37
+        for <kurukooti.nethaji1@gmail.com>
+        (Google Transport Security);
+        Tue, 17 Jan 2023 21:33:37 -0800 (PST)
+Received-SPF: pass (google.com: domain of infonexustechsystems@gmail.com designates 209.85.220.41 as permitted sender) client-ip=209.85.220.41;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@gmail.com header.s=20210112 header.b=FXlFsq1M;
+       spf=pass (google.com: domain of infonexustechsystems@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=infonexustechsystems@gmail.com;
+       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20210112;
+        h=to:subject:message-id:date:from:mime-version:from:to:cc:subject
+         :date:message-id:reply-to;
+        bh=0kppb67sHFdJ2ExCOkcGDXWYj+gYVcZtJ1AE1cbf9kM=;
+        b=FXlFsq1MXq0rvNWutXWle8cIj3BjkXTbBEqf0L2Bkoe8Zne237GZkxwlaLGGa2y/ji
+         1PQOniTL6BqT+pUcfvwc0PVS7bys+EgQ3tmMdraWwEXl5jwBnctR+RaXhDGqFVnABhSv
+         wEYfjGgmi3sm1WU4u8rq4w74erxJvqQDnVXBzkw0CzjwgPTVBxkUcYd63ohnFICl95cM
+         rQgbsgisD7RjehvYmkmakRAty5dCtEGlNnKto5pwJ5P54jpch42xsvD3dIRPQNe/GN4O
+         PSDDhxyxYxyrP8OgA/jV3pPNBfCiZA6admFq+k+LQYl17EYMH43KZWd0iwf1AddeXmGO
+         oD8A==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20210112;
+        h=to:subject:message-id:date:from:mime-version:x-gm-message-state
+         :from:to:cc:subject:date:message-id:reply-to;
+        bh=0kppb67sHFdJ2ExCOkcGDXWYj+gYVcZtJ1AE1cbf9kM=;
+        b=PHZYyTXtQKojJcr2fcYCQ31zuEzrlhj7SzcAdIMEgcQANf8XKJh3A//TRR/O09wQgy
+         GgvhHadkpe6A1VcMXJDhSnCpDILGkwlqM4hB4hhjjGo30gRqb7DioMfXF6fmj3KCj2Mm
+         ClE2elcHgwzOD6Wy19EfA79z4H9KuA0Pv2nrIQLyoh4ylauMAnG2RZjFIz8fttGrBrw6
+         Yiy/uYUqzu+wpPJiqxvVZJzCZddDqjARVE3TO6IghfwF/pwc0NIwFaf5XWV1N/Mj49OF
+         ImTMepr/1+UFaz5fOf5DJp9K1I6I85Ias99IzqsOi6k6C1MB2qBjSNtRVmHS76tM1DuY
+         9mTQ==
+X-Gm-Message-State: AFqh2kqrsu3wqKp7tCRFmkFkqC2vV4F9de8mQGHPNU4ATO3LOpXsbTIk ZHwKcAJV27STbpDB402HO+SkoseJ0Jo9mZ90cs9E8B5c
+X-Google-Smtp-Source: AMrXdXvb+A52GS+MwFC5eGSzxhS6k/EuMBUemMJqwLA2Wt4ScZVwKx/YiKD1z6F4p0Ifd2yvVWEkrJq+pyeKBbG0un0=
+X-Received: by 2002:a05:6512:2241:b0:4d5:8342:9424 with SMTP id i1-20020a056512224100b004d583429424mr278946lfu.330.1674020017138; Tue, 17 Jan 2023 21:33:37 -0800 (PST)
+MIME-Version: 1.0
+From: nexustech infosystems <infonexustechsystems@gmail.com>
+Date: Wed, 18 Jan 2023 11:03:25 +0530
+Message-ID: <CAB+GoW5-zmKqJnrxs9mL5ueKXfoeE=v6soA77nHaeOUG87fvHg@mail.gmail.com>
+Subject: Training session starts at 11:30am
+To: kurukooti.nethaji1@gmail.com
+Content-Type: multipart/alternative; boundary="00000000000077f0bd05f28328e9"
+
+--00000000000077f0bd05f28328e9
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Nethaji today training session starts at 11:30am
+
+--00000000000077f0bd05f28328e9
+Content-Type: text/html; charset="UTF-8"
+
+<div dir="auto">Dear Nethaji today training session starts at 11:30am</div>
+
+--00000000000077f0bd05f28328e9--
+
+10
+
+Original Message
+Message ID	<CAB+GoW6bs9p9TdvSt4t8DUC9hg=6EVVPUxV-Y+ezQUTgJuGoCA@mail.gmail.com>
+Created at:	Mon, Jan 23, 2023 at 10:52 AM (Delivered after 13 seconds)
+From:	nexustech infosystems <infonexustechsystems@gmail.com>
+To:	kurukooti.nethaji1@gmail.com
+Subject:	Training session starts at 11:15 am
+SPF:	PASS with IP 209.85.220.41 Learn more
+DKIM:	'PASS' with domain gmail.com Learn more
+DMARC:	'PASS' Learn more
+
+
+Download Original	Copy to clipboard	
+Delivered-To: kurukooti.nethaji1@gmail.com
+Received: by 2002:a05:7010:7308:b0:324:db1d:2964 with SMTP id h8csp1942576mdc;
+        Sun, 22 Jan 2023 21:22:48 -0800 (PST)
+X-Received: by 2002:a05:6512:1095:b0:4cb:1189:285a with SMTP id j21-20020a056512109500b004cb1189285amr8211742lfg.5.1674451368359;
+        Sun, 22 Jan 2023 21:22:48 -0800 (PST)
+ARC-Seal: i=1; a=rsa-sha256; t=1674451368; cv=none;
+        d=google.com; s=arc-20160816;
+        b=vgCAhCF+XVmQKFvl6y729jsZGc8PuVIK4Ox2y8UFI8TZhObt2b/16ObP2gs5qZzbmx
+         XERTl7xgVzfrBbMMo3xXdxQOqkFeVQrNG/OCyK75VD+Uu06j0DsYBfz0CVDceV+PN1bq
+         DW8jnq1YP7gyAiCcpZ+wwDw903EgDFNktRhTiDZHSgFF+Qaw8VwI3m6lZctz15AAUHRm
+         gTmNV7tbVC1EYAcwvsdQDE+U+sNWl9e7ZmAHNol0ErqwMyGVPD9ZoRttf6Ve1eTyRatn
+         uHfBBJdGVA2CB7gVns6P9zMeNYqMuzAHFg0sLqQc0sWuUIw87cyAUjsY5YcoDCa8WXM0
+         16IA==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=to:subject:message-id:date:from:mime-version:dkim-signature;
+        bh=IHL39OpT6sJaXw938OBluJs0ZNXnf7UHQFC2lWjU4Bg=;
+        b=NfZ17q2IQgcCkmwtloNQZVYNCavaQVV0mDJE7T/A4An+kSAsLYleYXlM98L5GxT4C7
+         CoIADKHXNr6xibaTVYunlHz+0OotvH8lMTM2n4AjAKFXvHkzuBu3p/PGzRK7FhRZr8IE
+         QRj839ichJB2CCk50B7+MGMwr6qzhIg77T49tcxUFTlgrbZMEayVQU7WEPZCrOudy5WP
+         i17KRRKzVu3gL+F+sZDC1UiBEWk+5G31JOP2DX1KV1O0fH0mWSMam9zG6nFW7NDol3su
+         T87coySGliEiS/SMlm7/Jt7ylRAwy7OXBdnmW3QwevExL7FpuZDqbqcFpco/yjOmI6lw
+         aN7w==
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@gmail.com header.s=20210112 header.b=K8uzw79c;
+       spf=pass (google.com: domain of infonexustechsystems@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=infonexustechsystems@gmail.com;
+       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com
+Return-Path: <infonexustechsystems@gmail.com>
+Received: from mail-sor-f41.google.com (mail-sor-f41.google.com. [209.85.220.41])
+        by mx.google.com with SMTPS id b12-20020a056512304c00b004b2111e9e7asor10006005lfb.29.2023.01.22.21.22.48
+        for <kurukooti.nethaji1@gmail.com>
+        (Google Transport Security);
+        Sun, 22 Jan 2023 21:22:48 -0800 (PST)
+Received-SPF: pass (google.com: domain of infonexustechsystems@gmail.com designates 209.85.220.41 as permitted sender) client-ip=209.85.220.41;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@gmail.com header.s=20210112 header.b=K8uzw79c;
+       spf=pass (google.com: domain of infonexustechsystems@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=infonexustechsystems@gmail.com;
+       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20210112;
+        h=to:subject:message-id:date:from:mime-version:from:to:cc:subject
+         :date:message-id:reply-to;
+        bh=IHL39OpT6sJaXw938OBluJs0ZNXnf7UHQFC2lWjU4Bg=;
+        b=K8uzw79chvOfmUWxGvWBQnVEGfihosTErbNm0Vgfw97PX5/+k6jxJcy0cUgO45zC0i
+         5UI7eHFDJPwOU0n5lZ+xASW/MtO4wTkPEjhCg5q5AFa4bHPWcdVqIrzPq8OxqbO8w+tQ
+         aht0XKgK6MvO/EFagCFIWP8tvWX3dvSDeOlabFM7/50viUbLo7MS8BN0G3b36xBpnHkz
+         /iWzPKAvNmZUUF8WxZLKbX2sZ8LDurui6r08LpSPcHuyVOWoOxc97i4Umc/yADSGsqp3
+         Pm1W3kpV4XH51MqL9q57kzXRRtO3TfyNhL5STJYQCnC/ZUA4bsStEVjZIgwNU5ihMVKS
+         mNcQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20210112;
+        h=to:subject:message-id:date:from:mime-version:x-gm-message-state
+         :from:to:cc:subject:date:message-id:reply-to;
+        bh=IHL39OpT6sJaXw938OBluJs0ZNXnf7UHQFC2lWjU4Bg=;
+        b=f3lRGlvPJprkuQfgDvwHhBhVXR83Al3US91d9gckr+0zfXVR4b1m3RNp3Ga4+6+SPZ
+         LlWfq3b/KJVVSES7dblgcYceC/E6hMFUfTXPX9eZhNKE4S9sSSiCSNfowo2zJ5fI/gob
+         WdspIv+UbqdieLvscRUY+xFJFUDBPX7l4pzpgJz46AoFILfGVA9MX/s+dKjhYL/ayHN4
+         BmGRlrH+NetoL8ZOMQ1rq/RVqb6+hcr0H3yuJnOfuKsVU4xCW5ENYk1SAb8W8FpPyYr2
+         SxR219FMd4K2dR/1Xi71kDNZO9lae2G+wXlHgeasskZMONR6EABJKuhe6a0slMiFfm4T
+         J5Dg==
+X-Gm-Message-State: AFqh2krs/1SoJp6ChrgppEFUZS+vqOSCXpNnvt92AEzBZJA2u+2dWq3z LoZv87gcmr4cxipxTspUuxa4H0JSjdG5h3/uX98Dv5oN
+X-Google-Smtp-Source: AMrXdXv+AxEMpJwYTkrrFagGEkbwoliATEoFx6KwV64DCnoBnTHXfzEF2e0Lze0o9Bxxk5uaeMcgiEi3hFOIC7n+ZUo=
+X-Received: by 2002:ac2:592e:0:b0:4d3:cf94:ab07 with SMTP id v14-20020ac2592e000000b004d3cf94ab07mr894816lfi.179.1674451367582; Sun, 22 Jan 2023 21:22:47 -0800 (PST)
+MIME-Version: 1.0
+From: nexustech infosystems <infonexustechsystems@gmail.com>
+Date: Mon, 23 Jan 2023 10:52:35 +0530
+Message-ID: <CAB+GoW6bs9p9TdvSt4t8DUC9hg=6EVVPUxV-Y+ezQUTgJuGoCA@mail.gmail.com>
+Subject: Training session starts at 11:15 am
+To: kurukooti.nethaji1@gmail.com
+Content-Type: multipart/alternative; boundary="000000000000f55dde05f2e79632"
+
+--000000000000f55dde05f2e79632
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Nethaji today training session starts at 11:15 am
+
+--000000000000f55dde05f2e79632
+Content-Type: text/html; charset="UTF-8"
+
+<div dir="auto">Dear Nethaji today training session starts at 11:15 am</div>
+
+--000000000000f55dde05f2e79632--
+
+11
+
+Original Message
+Message ID	<CAB+GoW5d0OgQhTmWArbApAAi_pXFXYyQPes_oLL6mdZ=SKXGiw@mail.gmail.com>
+Created at:	Mon, Jan 30, 2023 at 3:20 PM (Delivered after 12 seconds)
+From:	nexustech infosystems <infonexustechsystems@gmail.com>
+To:	kurukooti.nethaji1@gmail.com
+Subject:	Training session starts at 3:30pm
+SPF:	PASS with IP 209.85.220.41 Learn more
+DKIM:	'PASS' with domain gmail.com Learn more
+DMARC:	'PASS' Learn more
+
+
+Download Original	Copy to clipboard	
+Delivered-To: kurukooti.nethaji1@gmail.com
+Received: by 2002:a05:7011:e8a:b0:328:6295:1794 with SMTP id hx10csp1078326mdb;
+        Mon, 30 Jan 2023 01:50:49 -0800 (PST)
+X-Received: by 2002:a05:6512:3ba8:b0:4d5:8bf9:92ef with SMTP id g40-20020a0565123ba800b004d58bf992efmr17084509lfv.60.1675072249710;
+        Mon, 30 Jan 2023 01:50:49 -0800 (PST)
+ARC-Seal: i=1; a=rsa-sha256; t=1675072249; cv=none;
+        d=google.com; s=arc-20160816;
+        b=zpNO+MPw0Ez8lJIU/gszxCb5O9Et1jS8MNBxw1pKFdtjpRs8ZRtQ7euIoh6Q/zegNa
+         rWoju4fQBIBAxAhwCpG0MN2DL6TXrEzfwTzpYIb6kK2rcfP6O1hTllcV5o1sYYGXteJu
+         WHhgPxEnvLYbqURj7T89gmj4fFTtIOq6xBtjPxAWhFDAI2gbO0t0putzdLigzt8DLbSx
+         Hm4JgWRTuWD6PiCGas7MyyV4BjH08X7Zm8ZJ5tzbvsqK4W93TCdzt2TVm3wMiSR+aBdd
+         ykk4ZCVB0tFBhWNJ0CaSZhNweO1LYuICu++PThc8x223Ko8/e+g9mTGctGQehzYd8GWQ
+         iutw==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=to:subject:message-id:date:from:mime-version:dkim-signature;
+        bh=c83S3lnGLyiRy1NZMSmC8L2dNNPD16p9oCmc4jzQNb4=;
+        b=NL+EjTOFNrqA6eEbmZSEjjwK1mGS3P2gApTwh4BY77XoSl0+MtaG0PkeCXjBnjQdnO
+         i0mDCKOYer3yXdLqepGAoy0A8ck6GkNI9Hk5nFbQ4GWYZrKajEg2tbO5oqDASBr3w5hw
+         Rxlqx7pHGBkat0OWQszNgmEX/LKRwobbCYfbbvqxF3fHFOyYlw+6FPOteO8wvP5cPB25
+         sP7VFqo6IApAqHCqeoaVGrM9AKOgnkRYmh+g8T2ODt99lnU3eJ7+dCkZmUEA0NrKVXXH
+         9gsNI2hBBXj6jpXMS7jREMUsQB5BSi+QPWs70naKwLwvpBRDbuOgU8JSsAu90vUf2YJJ
+         Fvfg==
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@gmail.com header.s=20210112 header.b=JMIF+S7p;
+       spf=pass (google.com: domain of infonexustechsystems@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=infonexustechsystems@gmail.com;
+       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com
+Return-Path: <infonexustechsystems@gmail.com>
+Received: from mail-sor-f41.google.com (mail-sor-f41.google.com. [209.85.220.41])
+        by mx.google.com with SMTPS id g19-20020a19ee13000000b004cb0e0cc0fesor2434616lfb.16.2023.01.30.01.50.49
+        for <kurukooti.nethaji1@gmail.com>
+        (Google Transport Security);
+        Mon, 30 Jan 2023 01:50:49 -0800 (PST)
+Received-SPF: pass (google.com: domain of infonexustechsystems@gmail.com designates 209.85.220.41 as permitted sender) client-ip=209.85.220.41;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@gmail.com header.s=20210112 header.b=JMIF+S7p;
+       spf=pass (google.com: domain of infonexustechsystems@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=infonexustechsystems@gmail.com;
+       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20210112;
+        h=to:subject:message-id:date:from:mime-version:from:to:cc:subject
+         :date:message-id:reply-to;
+        bh=c83S3lnGLyiRy1NZMSmC8L2dNNPD16p9oCmc4jzQNb4=;
+        b=JMIF+S7pV4trEVOJVFp7y1oQz2tiU8Rx3UxaNnan9i1ExlncQkuqHOumJgoKhYqXoN
+         ETEs+JGqlhwyYED8npGWRIjuT/QTui2HjtN36ptlQt6vpZwzYqUMJKYGhiQE+coJKf1G
+         a+IA1MdsVlFqB7zkYY9BcfcdZX9SozAyS0+K0c/+/t8LOQsSnoHKmRBWRDnmkANggpvX
+         s1RtiNX4FBGZeJSRJz82UfFi6etF27f/Z9/srz5/mMXf031Nigu+IN+6V3H0R6oaKf2P
+         LVJiqos2FghbncE0oG/obQ0UfBmDngJvgs2hh+o/tFfEiX88HrsugzAiuw80Ft0vvTCW
+         ZxQQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20210112;
+        h=to:subject:message-id:date:from:mime-version:x-gm-message-state
+         :from:to:cc:subject:date:message-id:reply-to;
+        bh=c83S3lnGLyiRy1NZMSmC8L2dNNPD16p9oCmc4jzQNb4=;
+        b=h1KA6ZGoJXk2y02nI70HFrtmxhCsQ+2oRtHPegqtHlGegCzneO4T3ObWjAGmI9oBUr
+         EQiJldyinAFT+TgqmcU0mjeyl0Lf2uEonQnRAcI7tpyt0dcm2pCd1vMIfnGC7gd856Se
+         opL5YnKwO3bPVgaNlZPXFj2FIhuHe5StWknFOKVhJmurCAeKB62NN4U29pU3HVPyGvN1
+         /CLSkzwHR510JSC9clreWMl3vNEykh4AkvPxX9J3keoBu/S/p4ErnjF9AnL0YtbY/04A
+         yD5RHXUTNb9t8Vorpg7BDwLmYj5mwpCsHPW+8iX1Y2ESf2T5stlVdlO7fAP1CAcqVQxz
+         PbxA==
+X-Gm-Message-State: AFqh2krpJWDVnNyEwbLPHsNgxx6kJ6oNmkZKiD6N72keFUTo8Pvn/y8O j2ypaSBlI80CANz4FzAMhkha18/jgI5rryvx2+HtI5rx
+X-Google-Smtp-Source: AMrXdXuRnZw9qdl2ajyrnXkI0RqNZ4VHvoULXuSPsc5ocdmNKKQa2MsYhAbs720Qmw6OfbpJF3mKOS6KPtrrcBS/W4w=
+X-Received: by 2002:ac2:4c52:0:b0:4b5:7290:3dd8 with SMTP id o18-20020ac24c52000000b004b572903dd8mr3541358lfk.254.1675072249033; Mon, 30 Jan 2023 01:50:49 -0800 (PST)
+MIME-Version: 1.0
+From: nexustech infosystems <infonexustechsystems@gmail.com>
+Date: Mon, 30 Jan 2023 15:20:37 +0530
+Message-ID: <CAB+GoW5d0OgQhTmWArbApAAi_pXFXYyQPes_oLL6mdZ=SKXGiw@mail.gmail.com>
+Subject: Training session starts at 3:30pm
+To: kurukooti.nethaji1@gmail.com
+Content-Type: multipart/alternative; boundary="0000000000006078e005f37826af"
+
+--0000000000006078e005f37826af
+Content-Type: text/plain; charset="UTF-8"
+
+Training session starts at 3:30pm
+
+--0000000000006078e005f37826af
+Content-Type: text/html; charset="UTF-8"
+
+<div dir="auto">Training session starts at 3:30pm</div>
+
+--0000000000006078e005f37826af--
+
+12
+Original Message
+Message ID	<CAB+GoW5BuH80MM3N-aHCfo-WagM5B4XHoYiyeMLcF2N=ZMSheg@mail.gmail.com>
+Created at:	Wed, Feb 1, 2023 at 4:07 PM (Delivered after 13 seconds)
+From:	nexustech infosystems <infonexustechsystems@gmail.com>
+To:	kurukooti.nethaji1@gmail.com
+Subject:	Training session starts at 4:15pm
+SPF:	PASS with IP 209.85.220.41 Learn more
+DKIM:	'PASS' with domain gmail.com Learn more
+DMARC:	'PASS' Learn more
+
+
+Download Original	Copy to clipboard	
+Delivered-To: kurukooti.nethaji1@gmail.com
+Received: by 2002:a05:7011:e8a:b0:328:6295:1794 with SMTP id hx10csp380762mdb;
+        Wed, 1 Feb 2023 02:38:04 -0800 (PST)
+X-Received: by 2002:a2e:a683:0:b0:290:5b9f:747b with SMTP id q3-20020a2ea683000000b002905b9f747bmr292351lje.45.1675247884509;
+        Wed, 01 Feb 2023 02:38:04 -0800 (PST)
+ARC-Seal: i=1; a=rsa-sha256; t=1675247884; cv=none;
+        d=google.com; s=arc-20160816;
+        b=qheUn1E38OIIRPC0p2gGqYqYjfWhJpUiyKRh2syupurMa2Hz2KVU4POC74cPr0LIVk
+         f1q3kPuq6ueWNRINbLf9SNSOr7cMyST3PTomHe1QryPURV883kAMyIP85er3qzef3mDj
+         hRKk8MYJKKJYbtthe+0aB2YdvANTN8VSKF5Q8Y/dIPJYmVmKvSX+EDMeyid1SK4ziVBX
+         Og23QGDmxR8gBWwKE+LhdH07xc9s2zTAkkIuEpHdJRLJ5ddu44sl1NDX8gLVJ33qC8u5
+         dcqEEhzn5YVHoh97j/7Ptc1Tj3GQqrSiBHN3PM+TddeHBdaI2ztHS9uVdP8Q+pMAEXw8
+         LhQw==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=to:subject:message-id:date:from:mime-version:dkim-signature;
+        bh=fMkHWV6CHPUCidAkpSYfhn859tvDL+liYMkSvyN9kpU=;
+        b=R6o6ujlDBmbSHoL7NJi1vtE+EsBXeCGVdFVd54+3wiRNF0Vmpaok8hnyXYYEfPqHca
+         7Uk9ra1PM47i5Cwvs4HVUUFcvcdwJMRp7aCaZ53UUijszA327IgKcnIOqEzPCyiHzCmP
+         /+t8RKujOhmL9Q4NkcRrGxisloY9i0+/kDqCo6hObTY7G1snPhaC1U70dF72e4KP99h2
+         p0fOuVdJ48wTrvv+AvEP1UwsIrZ+R2i7DF1KiApp3r1sDzsbA3E0Ftk56XAPU99ZTdul
+         XJefGX1MpV6/NyhhGCxkdYodsVofwNfRqkax0k9CkCa1kh8PxhHKSYte+bhSWlUy7qOm
+         8ylg==
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@gmail.com header.s=20210112 header.b=qQUxUZLj;
+       spf=pass (google.com: domain of infonexustechsystems@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=infonexustechsystems@gmail.com;
+       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com
+Return-Path: <infonexustechsystems@gmail.com>
+Received: from mail-sor-f41.google.com (mail-sor-f41.google.com. [209.85.220.41])
+        by mx.google.com with SMTPS id e8-20020a2eb1c8000000b0028bb3edfd3bsor6441481lja.53.2023.02.01.02.38.04
+        for <kurukooti.nethaji1@gmail.com>
+        (Google Transport Security);
+        Wed, 01 Feb 2023 02:38:04 -0800 (PST)
+Received-SPF: pass (google.com: domain of infonexustechsystems@gmail.com designates 209.85.220.41 as permitted sender) client-ip=209.85.220.41;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@gmail.com header.s=20210112 header.b=qQUxUZLj;
+       spf=pass (google.com: domain of infonexustechsystems@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=infonexustechsystems@gmail.com;
+       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20210112;
+        h=to:subject:message-id:date:from:mime-version:from:to:cc:subject
+         :date:message-id:reply-to;
+        bh=fMkHWV6CHPUCidAkpSYfhn859tvDL+liYMkSvyN9kpU=;
+        b=qQUxUZLjPcZQEAoiuwjOSS3ch1cgr6sHnaVgb0q64h/30mXBBIF75xeZxCAFh/EPMu
+         d16dtc/4EPe+6aQnucqdMCm36gaesmmBiZv+uT9mE4IHMGfWOp1mXi2KeA1vlxNErFK3
+         KHwQmM0nvna6g9awcz5fyKi6+TOkDYikdq4DxKjkbN36U7Inhgb6u15s55IN9/PsuVX3
+         RUOP2T4boaIJQ/g/uzGUk201c4sfHP4L5x5zylCSQV0Whu0wSN0v2gnUmx3E6aAWjDm4
+         LsGjchKegarXBXDCG06Pck7K+GckFc/KqFqRtjkJlf1r9Uvrh3ANMPZ7A3Yow9Ca9aiT
+         taRQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20210112;
+        h=to:subject:message-id:date:from:mime-version:x-gm-message-state
+         :from:to:cc:subject:date:message-id:reply-to;
+        bh=fMkHWV6CHPUCidAkpSYfhn859tvDL+liYMkSvyN9kpU=;
+        b=Ty0EMpjAUAShLdc/SMSK+inXllztkiLVnDPTL379d6K8DnqLU0zop8oZR/trgPDAax
+         Qi48bpCtmVW00Yv+uj/59LOBd9CP8p9V0AXPvVljPzETGhXdNhmzu3+lMTjXrHpBtwWp
+         HlyvNUlZysj8WNXuQZN8XSIWMJYyp1B9vIGmIQr5zSXCo6BgUVfWyNAkr9VDWJm6Jedx
+         Ku5pr9o+8WciNwSt+TuRy71JtULox2eqz9NqBSlmjnOCImqr3Pf7fqEPpcZTFbqXFcXE
+         Mz1ZS8ksiqdMQsSCWXbwzPla0lf9M3kaPFbxlCHA9ioPcspv98y50XueVX2E5w1TJz7j
+         7DsQ==
+X-Gm-Message-State: AO0yUKXTNvxNxXp8xjKKCuCpcfRtBbQfODr1skLt06LAbPSTW5uT0lhm 2bJ4c83HjMjBiBc7Hd5qZN+OJcC+KlsR1xLEBXZR63Va
+X-Google-Smtp-Source: AK7set8L85CJ+Y9FC93u8Vde1/phiQg4K5iW9MKXoLY22fN9j2VrVRlaKaaSrbOlb4dweupYPrp7jBkQWwR8oQRMjAY=
+X-Received: by 2002:a2e:b008:0:b0:290:4dca:4eac with SMTP id y8-20020a2eb008000000b002904dca4eacmr293862ljk.139.1675247883655; Wed, 01 Feb 2023 02:38:03 -0800 (PST)
+MIME-Version: 1.0
+From: nexustech infosystems <infonexustechsystems@gmail.com>
+Date: Wed, 1 Feb 2023 16:07:51 +0530
+Message-ID: <CAB+GoW5BuH80MM3N-aHCfo-WagM5B4XHoYiyeMLcF2N=ZMSheg@mail.gmail.com>
+Subject: Training session starts at 4:15pm
+To: kurukooti.nethaji1@gmail.com
+Content-Type: multipart/alternative; boundary="000000000000041ca905f3a10be6"
+
+--000000000000041ca905f3a10be6
+Content-Type: text/plain; charset="UTF-8"
+
+Training session starts at 4:15pm
+
+--000000000000041ca905f3a10be6
+Content-Type: text/html; charset="UTF-8"
+
+<div dir="auto">Training session starts at 4:15pm</div>
+
+--000000000000041ca905f3a10be6--
+
+13
+
+
+Original Message
+Message ID	<CAB+GoW4_6MVMfZD-tEwedLdkLfL_f=wjSkq144vH7S8kPUAR5Q@mail.gmail.com>
+Created at:	Mon, Feb 6, 2023 at 4:30 PM (Delivered after 12 seconds)
+From:	nexustech infosystems <infonexustechsystems@gmail.com>
+To:	kurukooti.nethaji1@gmail.com
+Subject:	Training session starts on 4:45pm
+SPF:	PASS with IP 209.85.220.41 Learn more
+DKIM:	'PASS' with domain gmail.com Learn more
+DMARC:	'PASS' Learn more
+
+
+Download Original	Copy to clipboard	
+Delivered-To: kurukooti.nethaji1@gmail.com
+Received: by 2002:a05:7011:e8a:b0:328:6295:1794 with SMTP id hx10csp3103512mdb;
+        Mon, 6 Feb 2023 03:01:07 -0800 (PST)
+X-Received: by 2002:ac2:5337:0:b0:4da:f435:a0be with SMTP id f23-20020ac25337000000b004daf435a0bemr474778lfh.52.1675681267686;
+        Mon, 06 Feb 2023 03:01:07 -0800 (PST)
+ARC-Seal: i=1; a=rsa-sha256; t=1675681267; cv=none;
+        d=google.com; s=arc-20160816;
+        b=rGZ59G6UlS6pRJ7+zsDFhK+/AhXZGYpNFXRYMcvI4by3wFXmdtA7MUF6HW4Wmb8oXE
+         PRG4vWrO6Mc7IeRlAa5VumsSfrovgCLjeIJkOElAK2ODREWYKyzpyFU8YQkKrYJqdRed
+         eiMKrTwCeIFEVSYYUiLkVHTcp2Vo+8AHpfz7vb8wAMiVr2N160Ppd4WjQLet9dKgvocr
+         wCoDlvt6CwXDkbRLHQB+qHCNQGrPKV9LMw/7byQo/G7jultC8EE9IqRjObeLhRN7xFhf
+         ThxipZOHeJbV3LL+bdUvpGnuv92ePKu+RL05ossQuZMEpO+SzTHXe+vjxz0nrK5QlXkq
+         4sMw==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=to:subject:message-id:date:from:mime-version:dkim-signature;
+        bh=wwi+50SJpKQmSX3SebmFqVXCm41nbwztMfXXPDKo/xw=;
+        b=JFx8Iu3Y/ZPE7kqQX6cPM0tf9M/HEQJ1BiXf8ntsLqGHzb7YTd2EXHS+kfmZm50rVQ
+         O04YOXBwtv4xd/iO8COJ6pyqP3/8PBRkkDa08A0NWcyD5mhuOcgP/PzFg6wXBjdL2MO/
+         915dv05AKNnLn3sr+wfl1TZgZ3SXhyI/utnufR4dvHj+t5b/wNpXZCcaYi7JH+rhJYYr
+         NwOdT8xKEiKXw237VmGknaZeVZ0QcLKSTiDXlMkiBPX3AUQai4szZkE5uT7/xNG4Zmoi
+         4HfeUPciWgmKnpEfRXlNxdBtKxtcD/6xgTyF9YQAttzpct6DoHGHav4a8EK9QOOSA2vf
+         8xbw==
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@gmail.com header.s=20210112 header.b=XKl1YZNo;
+       spf=pass (google.com: domain of infonexustechsystems@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=infonexustechsystems@gmail.com;
+       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com
+Return-Path: <infonexustechsystems@gmail.com>
+Received: from mail-sor-f41.google.com (mail-sor-f41.google.com. [209.85.220.41])
+        by mx.google.com with SMTPS id k3-20020a2e9203000000b0029050e97f01sor3143992ljg.54.2023.02.06.03.01.07
+        for <kurukooti.nethaji1@gmail.com>
+        (Google Transport Security);
+        Mon, 06 Feb 2023 03:01:07 -0800 (PST)
+Received-SPF: pass (google.com: domain of infonexustechsystems@gmail.com designates 209.85.220.41 as permitted sender) client-ip=209.85.220.41;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@gmail.com header.s=20210112 header.b=XKl1YZNo;
+       spf=pass (google.com: domain of infonexustechsystems@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=infonexustechsystems@gmail.com;
+       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20210112;
+        h=to:subject:message-id:date:from:mime-version:from:to:cc:subject
+         :date:message-id:reply-to;
+        bh=wwi+50SJpKQmSX3SebmFqVXCm41nbwztMfXXPDKo/xw=;
+        b=XKl1YZNoIHbUfQ78FlGuO+T3vKUGWe2UG2IrQk5ObtknUv8Zz/4OWJ/krJ6sxvNY4W
+         IsseTkmdRjgGnjDXzKQsGLLhoGWYbkQu/xev3UD9qxpB1Ertlyrw0jaRSku1L3QCTbTN
+         WfVsISA2t5xlTSp+pGUZaNADqGW8vdiQulXRFb64NYytjxPhneUNKGo4hrak9xoQyVUt
+         1OZv5Qotb92xDMVbyBPGBtaYEYN1ZQqd2c1Tcmxyt9ifBPWF3OYKFa7zzukBL+3aXmjX
+         butzlSSy6tXeuohD+yBjf7YaSDCvpmuEANQ4DO7ACh7LpYGFRWNpgYfWsWSg9Swzozi2
+         xwTQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20210112;
+        h=to:subject:message-id:date:from:mime-version:x-gm-message-state
+         :from:to:cc:subject:date:message-id:reply-to;
+        bh=wwi+50SJpKQmSX3SebmFqVXCm41nbwztMfXXPDKo/xw=;
+        b=zOLgKqlXOtikASqUJFAo/D5NOCiNs5tvJOjr8c5I7ehpd9aZ27ooINKQFc63OyiBvS
+         nxw2YOrtTY0OSJY1CKGA3unV/hEOW+vbIQoSgBNMCcZoQiXMTWRcWo5HZA+nnz0iMo0Q
+         /LIgyI9Qb3uoNIq/W/U8PCLxYD9ZZwmw4lQVch+azpiCh23d/McQxd+b6HLgCtIOU2f9
+         PrRphrhxPBEH4TUG9fZV59cDSy6Rje26b5gi03xyvpl9UE/ghM+azukJNnvIcnAM9i3n
+         GENrVl15V6zMSiV/MtALpzXhglKuf2dgfsDySVlUBaMHRUbcMTRAl4jGZykhcm4GJjCz
+         4v3w==
+X-Gm-Message-State: AO0yUKUA5zssR9zXCE3vKReBhtt859o1WeAqoa69t2Ar7ny6u/2+m03b yEFihjmwSF61OzkiM2oPHfgsmuHiq9OrRuQuMpmve6HQ
+X-Google-Smtp-Source: AK7set9yCBoKu53rLYM6VjULmD9GRPoiNUfSqnCLTl0xXr4n0kOW3KXMwtxO++UdQTYygRPikIYgRm2vl8k23Qfi/Uw=
+X-Received: by 2002:a2e:b008:0:b0:290:4dca:4eac with SMTP id y8-20020a2eb008000000b002904dca4eacmr3273576ljk.139.1675681267055; Mon, 06 Feb 2023 03:01:07 -0800 (PST)
+MIME-Version: 1.0
+From: nexustech infosystems <infonexustechsystems@gmail.com>
+Date: Mon, 6 Feb 2023 16:30:55 +0530
+Message-ID: <CAB+GoW4_6MVMfZD-tEwedLdkLfL_f=wjSkq144vH7S8kPUAR5Q@mail.gmail.com>
+Subject: Training session starts on 4:45pm
+To: kurukooti.nethaji1@gmail.com
+Content-Type: multipart/alternative; boundary="000000000000adfecf05f405f253"
+
+--000000000000adfecf05f405f253
+Content-Type: text/plain; charset="UTF-8"
+
+Training session starts on 4:45pm
+
+--000000000000adfecf05f405f253
+Content-Type: text/html; charset="UTF-8"
+
+<div dir="auto">Training session starts on 4:45pm</div>
+
+--000000000000adfecf05f405f253--
+
+
